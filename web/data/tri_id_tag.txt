@@ -1,0 +1,6 @@
+<pad>
+B-TRI
+I-TRI
+O
+<start>
+<eos>

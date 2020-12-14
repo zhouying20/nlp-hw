@@ -1,0 +1,12855 @@
+
+
+
+Movement:Transport 29 29, 
+
+
+Personnel:Elect 3 3, 
+
+
+
+Personnel:Elect 23 23, 
+
+
+Movement:Transport 7 7, 
+
+
+
+
+Personnel:Start-Position 4 4, 
+
+
+
+Personnel:Nominate 19 20, 
+
+Personnel:Nominate 18 19, 
+
+
+
+
+
+
+Personnel:End-Position 7 8, 
+
+Conflict:Attack 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 1 1, 
+
+
+
+
+Contact:Meet 3 3, 
+
+Personnel:End-Position 3 3, 
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 6 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Marry 18 18, 
+Movement:Transport 15 15, 
+
+
+
+
+
+
+
+Personnel:Elect 26 26, Conflict:Attack 43 45, 
+
+Conflict:Attack 24 25, 
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 9 11, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Phone-Write 5 5, 
+
+
+
+
+Conflict:Attack 11 11, 
+
+
+
+
+
+Transaction:Transfer-Money 17 17, 
+
+Transaction:Transfer-Money 2 2, 
+
+
+Justice:Sue 3 3, 
+
+
+
+
+Conflict:Attack 17 17, Conflict:Attack 23 24, 
+
+
+
+
+Conflict:Attack 3 3, Conflict:Demonstrate 10 10, 
+
+Conflict:Attack 3 3, 
+
+
+Conflict:Attack 15 15, Conflict:Attack 17 17, 
+
+
+
+
+Business:End-Org 18 18, 
+Justice:Sue 12 12, 
+
+
+Justice:Sue 15 15, Personnel:Elect 10 10, Justice:Sue 22 23, 
+
+
+Personnel:End-Position 39 40, 
+
+Personnel:End-Position 9 9, 
+
+
+
+
+Personnel:End-Position 9 9, 
+
+Transaction:Transfer-Money 2 2, 
+
+
+Justice:Sue 22 23, 
+Life:Injure 17 17, 
+Transaction:Transfer-Money 3 5, 
+Transaction:Transfer-Money 8 10, 
+
+
+
+
+
+
+Personnel:End-Position 3 3, 
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Money 2 2, 
+
+
+Life:Injure 17 17, 
+
+Transaction:Transfer-Money 1 1, Transaction:Transfer-Money 12 12, 
+
+
+
+
+Transaction:Transfer-Money 33 33, 
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Money 2 2, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Money 12 13, 
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 27 28, 
+
+
+Conflict:Attack 9 10, 
+Conflict:Attack 5 5, 
+
+Life:Die 21 22, 
+Life:Die 19 20, 
+
+Life:Injure 11 11, 
+Conflict:Demonstrate 4 4, 
+Conflict:Demonstrate 5 5, Conflict:Attack 10 11, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 51 52, 
+
+
+Life:Die 8 8, 
+
+
+
+
+Conflict:Attack 10 10, 
+
+Conflict:Attack 10 10, Conflict:Attack 17 18, 
+Conflict:Attack 21 21, 
+Personnel:Start-Position 2 2, 
+
+
+
+Conflict:Attack 11 11, Personnel:Start-Position 13 15, 
+
+Conflict:Attack 1 1, Personnel:Start-Position 6 6, 
+Personnel:Start-Position 9 9, 
+
+
+
+Conflict:Attack 13 13, Life:Die 20 20, 
+
+
+
+
+
+
+
+
+
+Justice:Arrest-Jail 27 28, 
+
+
+
+
+Justice:Arrest-Jail 3 3, 
+
+Justice:Arrest-Jail 4 4, 
+Justice:Arrest-Jail 5 6, 
+Justice:Arrest-Jail 2 2, 
+Conflict:Attack 11 11, 
+
+
+
+
+
+
+Conflict:Attack 7 7, 
+
+
+
+
+
+
+
+
+Conflict:Attack 37 38, 
+
+
+
+
+
+Conflict:Attack 9 9, 
+
+
+
+
+
+Conflict:Attack 17 18, 
+Conflict:Attack 14 14, 
+
+Conflict:Attack 9 10, 
+Conflict:Attack 20 21, 
+Conflict:Attack 8 8, 
+Conflict:Attack 10 11, 
+Conflict:Attack 9 9, 
+
+
+
+
+
+
+
+Conflict:Attack 7 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 27 27, 
+Conflict:Attack 54 55, 
+
+Personnel:End-Position 3 3, 
+
+
+
+
+
+
+
+
+Personnel:End-Position 14 14, Personnel:End-Position 22 22, 
+
+
+Personnel:End-Position 4 4, 
+
+
+Personnel:End-Position 6 6, 
+
+Personnel:End-Position 1 1, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 6 6, 
+
+
+
+
+
+
+
+
+Conflict:Attack 16 16, 
+Conflict:Attack 9 9, 
+
+
+
+
+
+
+Contact:Meet 5 5, 
+Conflict:Attack 5 5, 
+
+Conflict:Attack 26 27, 
+Conflict:Attack 2 2, Conflict:Attack 10 10, 
+
+
+Conflict:Attack 8 9, 
+
+
+
+
+
+
+Conflict:Attack 34 34, 
+
+
+
+
+Personnel:End-Position 22 22, 
+Justice:Arrest-Jail 8 9, 
+Conflict:Attack 5 5, 
+
+Justice:Arrest-Jail 7 7, 
+
+
+Justice:Arrest-Jail 6 6, 
+
+Conflict:Attack 24 24, 
+Transaction:Transfer-Ownership 4 4, 
+
+
+Conflict:Attack 12 12, 
+Life:Die 15 15, 
+
+
+Conflict:Attack 14 14, 
+
+
+Life:Die 7 7, 
+
+
+
+Conflict:Attack 19 20, 
+
+
+
+
+
+
+Contact:Phone-Write 17 17, 
+Contact:Phone-Write 5 6, 
+
+
+
+
+
+
+
+Conflict:Attack 8 8, 
+
+Conflict:Attack 8 8, 
+
+
+
+Conflict:Attack 11 11, 
+
+
+Contact:Phone-Write 8 9, 
+Conflict:Attack 6 6, 
+
+
+Conflict:Attack 5 5, Conflict:Attack 18 18, 
+
+
+Conflict:Attack 11 11, 
+Conflict:Attack 6 6, 
+Conflict:Attack 12 12, 
+Conflict:Attack 4 5, 
+
+
+
+Conflict:Attack 10 10, 
+
+
+Conflict:Attack 23 24, 
+
+
+
+
+
+
+
+
+
+
+
+Life:Die 14 14, 
+
+
+
+
+Conflict:Attack 9 9, Conflict:Attack 16 17, 
+
+Conflict:Attack 9 9, 
+Conflict:Attack 12 12, 
+
+
+
+Conflict:Attack 15 16, Life:Die 21 21, 
+
+Conflict:Attack 5 6, 
+Life:Die 5 6, 
+Life:Die 14 14, 
+
+
+Conflict:Attack 7 8, 
+
+Life:Die 18 18, 
+
+
+Life:Die 8 8, 
+Life:Die 5 5, 
+Life:Die 5 5, 
+
+
+
+Conflict:Attack 0 0, Conflict:Attack 9 9, 
+Life:Injure 5 5, 
+Life:Die 4 4, Conflict:Attack 16 17, Life:Die 21 22, 
+
+
+
+
+Life:Die 13 13, 
+
+
+
+
+
+Life:Injure 6 6, Conflict:Attack 23 23, 
+
+Life:Die 3 3, 
+
+
+Conflict:Attack 12 12, 
+Life:Die 8 8, 
+
+Life:Die 3 3, 
+Conflict:Attack 1 2, 
+
+
+
+
+
+
+
+
+Conflict:Attack 14 15, 
+Conflict:Attack 6 7, 
+Conflict:Attack 3 4, Conflict:Attack 7 8, 
+
+
+
+
+
+
+
+
+
+Conflict:Attack 15 16, Transaction:Transfer-Ownership 22 22, 
+Life:Injure 27 27, 
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 6 7, 
+
+
+
+
+
+
+
+
+Life:Die 5 5, Conflict:Attack 7 7, Conflict:Attack 14 15, 
+Conflict:Attack 10 10, Life:Die 5 5, 
+
+
+Conflict:Attack 22 23, Life:Die 16 16, Life:Die 21 21, 
+Movement:Transport 9 9, 
+Conflict:Attack 7 7, Life:Die 12 12, 
+Conflict:Attack 0 0, 
+Conflict:Attack 6 6, 
+Contact:Meet 6 6, Conflict:Attack 10 10, Life:Die 23 23, Life:Die 29 29, Conflict:Attack 30 30, 
+Life:Die 48 48, Conflict:Attack 38 38, Life:Die 37 37, 
+Conflict:Attack 16 17, Contact:Meet 3 3, 
+Conflict:Attack 5 5, 
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 17 19, 
+
+Conflict:Attack 13 14, 
+
+
+Movement:Transport 1 1, Conflict:Attack 12 12, 
+
+
+
+Justice:Arrest-Jail 34 34, 
+
+Justice:Arrest-Jail 2 2, Conflict:Attack 22 23, 
+
+
+
+
+
+Conflict:Attack 7 8, 
+Conflict:Attack 0 0, 
+
+Movement:Transport 1 1, Life:Injure 29 29, Movement:Transport 35 36, Conflict:Attack 51 51, Life:Injure 52 52, 
+
+
+
+
+
+
+
+
+Conflict:Attack 4 4, 
+Conflict:Attack 12 12, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 25 25, Conflict:Attack 34 34, 
+
+
+
+
+Conflict:Attack 37 37, 
+Personnel:End-Position 5 5, 
+
+
+
+
+Personnel:End-Position 23 23, 
+
+Life:Die 36 36, 
+Conflict:Attack 40 41, 
+
+
+
+
+
+
+
+Conflict:Attack 61 61, 
+Conflict:Attack 14 14, Conflict:Attack 2 2, 
+
+Conflict:Attack 6 6, Conflict:Attack 17 17, Conflict:Attack 33 33, Conflict:Attack 30 30, 
+
+Conflict:Attack 31 31, 
+
+
+Movement:Transport 43 44, Movement:Transport 53 54, 
+Conflict:Attack 5 5, 
+Conflict:Attack 5 5, 
+Contact:Phone-Write 2 2, 
+
+
+
+
+
+Conflict:Attack 13 14, 
+
+
+Movement:Transport 3 3, 
+Movement:Transport 6 6, 
+Conflict:Attack 11 11, 
+
+
+
+
+
+
+
+Conflict:Attack 5 5, 
+
+
+
+Conflict:Attack 8 9, 
+Movement:Transport 3 3, 
+
+
+
+
+
+
+
+Conflict:Attack 11 11, Conflict:Demonstrate 8 8, 
+Conflict:Demonstrate 7 8, 
+Conflict:Demonstrate 16 17, 
+Conflict:Demonstrate 15 15, 
+
+Conflict:Demonstrate 16 16, 
+
+Movement:Transport 7 8, 
+Conflict:Demonstrate 17 17, 
+Conflict:Demonstrate 11 11, Conflict:Attack 17 17, 
+
+
+
+
+
+
+
+Conflict:Demonstrate 6 7, 
+Conflict:Demonstrate 10 10, Conflict:Attack 26 27, 
+
+
+
+
+
+
+Life:Injure 9 9, Conflict:Attack 12 13, 
+Conflict:Attack 15 15, 
+
+
+
+
+
+
+
+Conflict:Attack 6 7, 
+Conflict:Attack 3 3, 
+
+
+
+Conflict:Demonstrate 6 7, 
+Conflict:Demonstrate 13 14, 
+
+
+Conflict:Attack 11 11, 
+Movement:Transport 5 5, 
+
+
+Movement:Transport 19 19, 
+Conflict:Attack 6 6, Movement:Transport 21 22, 
+
+
+Movement:Transport 6 6, 
+Life:Die 1 1, 
+
+Movement:Transport 7 7, 
+
+
+
+Movement:Transport 3 3, Conflict:Attack 11 11, Life:Die 30 31, 
+
+
+
+
+Contact:Phone-Write 1 1, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 9 9, 
+Life:Injure 7 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 6 6, Movement:Transport 12 12, 
+
+
+
+Movement:Transport 9 9, 
+Conflict:Attack 9 9, 
+
+
+Conflict:Attack 15 16, 
+
+
+
+
+
+
+
+
+Conflict:Attack 4 4, 
+Conflict:Attack 3 4, Movement:Transport 14 14, 
+
+
+
+
+
+
+
+
+Conflict:Attack 32 33, 
+
+
+
+
+
+
+
+
+
+Conflict:Attack 13 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 7 7, 
+Life:Injure 18 18, Conflict:Attack 24 24, 
+
+
+Conflict:Attack 15 15, 
+
+
+Conflict:Attack 5 5, 
+
+
+Life:Die 10 11, 
+Life:Injure 4 5, 
+
+
+
+Conflict:Attack 5 5, Life:Die 36 36, Conflict:Attack 39 40, Conflict:Attack 14 14, 
+Conflict:Attack 3 4, 
+Conflict:Attack 15 15, 
+Conflict:Attack 16 16, 
+Conflict:Attack 17 17, 
+Conflict:Attack 11 12, Conflict:Attack 9 9, 
+
+
+
+
+Conflict:Attack 13 14, 
+
+Life:Die 7 7, Conflict:Attack 15 15, Conflict:Attack 9 10, 
+Conflict:Attack 11 12, Life:Die 9 9, Life:Die 20 20, 
+Life:Injure 7 8, Life:Die 17 17, Life:Injure 21 22, 
+
+Conflict:Attack 5 5, 
+
+Movement:Transport 55 55, 
+
+
+Conflict:Attack 24 24, 
+Conflict:Attack 12 12, 
+
+
+
+Movement:Transport 27 28, 
+
+Movement:Transport 8 9, 
+
+Movement:Transport 5 5, 
+Conflict:Attack 16 16, 
+
+Conflict:Attack 5 5, 
+
+Conflict:Attack 24 24, 
+Movement:Transport 12 12, Conflict:Attack 30 31, 
+Movement:Transport 6 6, Conflict:Attack 13 13, 
+Conflict:Attack 29 29, 
+
+Business:End-Org 36 37, 
+Conflict:Attack 21 21, 
+
+
+
+
+Movement:Transport 9 9, 
+
+Conflict:Attack 17 18, Life:Die 28 29, 
+Conflict:Attack 4 4, 
+
+
+
+Movement:Transport 13 13, 
+Movement:Transport 7 8, 
+Conflict:Attack 6 6, 
+Movement:Transport 5 5, 
+
+Life:Injure 12 12, 
+
+Conflict:Attack 14 14, 
+
+
+
+
+
+Movement:Transport 25 25, Movement:Transport 30 30, 
+
+
+
+
+
+
+
+
+Movement:Transport 6 6, 
+Conflict:Attack 4 4, 
+
+Movement:Transport 3 3, 
+
+
+
+Personnel:End-Position 2 2, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 24 24, 
+
+Movement:Transport 5 5, 
+
+
+
+Business:Start-Org 20 21, 
+
+
+
+
+
+
+
+
+Conflict:Attack 17 17, 
+Conflict:Attack 1 3, 
+
+
+
+
+
+
+
+
+Personnel:End-Position 5 6, 
+Conflict:Attack 25 25, Movement:Transport 4 4, 
+
+
+
+Conflict:Attack 17 17, 
+
+
+Movement:Transport 7 7, 
+Conflict:Attack 17 17, 
+Conflict:Attack 9 9, 
+
+Conflict:Attack 9 9, 
+
+
+
+
+
+
+Conflict:Attack 11 11, 
+Movement:Transport 18 18, 
+Movement:Transport 3 3, 
+Conflict:Attack 5 5, 
+
+Conflict:Attack 28 29, Conflict:Attack 16 16, 
+Conflict:Attack 0 0, 
+
+
+
+
+Conflict:Attack 9 9, 
+Movement:Transport 2 2, Conflict:Attack 14 15, 
+
+
+Conflict:Attack 33 34, 
+
+
+
+
+
+
+
+
+Conflict:Attack 11 12, 
+
+
+Movement:Transport 4 4, Conflict:Attack 21 22, 
+Conflict:Attack 17 18, 
+
+
+Conflict:Attack 6 6, 
+Movement:Transport 21 21, Movement:Transport 25 25, 
+
+
+
+Movement:Transport 14 14, 
+Transaction:Transfer-Ownership 6 7, 
+
+Movement:Transport 3 3, 
+Transaction:Transfer-Ownership 10 11, 
+
+
+Movement:Transport 9 9, 
+
+
+
+
+
+Conflict:Attack 5 5, 
+
+
+
+Conflict:Attack 35 35, 
+
+
+
+
+Conflict:Attack 6 6, 
+
+Movement:Transport 22 22, 
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Ownership 8 9, 
+
+Movement:Transport 15 15, 
+
+
+
+
+
+Conflict:Attack 28 28, 
+
+
+
+Movement:Transport 25 25, 
+Movement:Transport 10 10, Conflict:Attack 20 20, Conflict:Attack 18 18, 
+Movement:Transport 3 3, 
+Movement:Transport 10 10, 
+Movement:Transport 13 14, 
+
+Contact:Meet 17 17, 
+
+Movement:Transport 5 5, 
+Conflict:Attack 15 15, 
+
+
+Movement:Transport 11 11, 
+
+Conflict:Attack 11 11, 
+Movement:Transport 11 12, 
+Movement:Transport 5 5, Transaction:Transfer-Ownership 17 17, 
+
+Conflict:Attack 5 5, 
+
+
+Conflict:Attack 6 6, Conflict:Attack 24 24, 
+
+
+
+Conflict:Attack 5 5, 
+Conflict:Attack 23 23, 
+
+Conflict:Attack 24 24, Movement:Transport 43 43, 
+
+
+
+
+Movement:Transport 3 3, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Injure 13 14, Life:Injure 17 18, 
+
+Life:Injure 5 5, Life:Injure 9 10, Life:Injure 15 15, 
+
+Life:Injure 2 2, 
+
+
+
+
+
+Life:Injure 5 5, Life:Injure 18 19, 
+Life:Injure 9 10, 
+
+
+Contact:Phone-Write 11 12, 
+
+
+
+
+
+
+
+
+
+
+Life:Injure 16 17, Life:Injure 21 22, 
+Life:Injure 13 14, 
+
+
+Movement:Transport 3 4, 
+
+
+
+
+
+
+
+
+Contact:Meet 9 9, 
+
+
+
+
+
+
+
+
+
+
+
+Contact:Meet 12 12, 
+
+
+Movement:Transport 10 10, 
+Movement:Transport 3 4, 
+
+
+
+
+
+
+
+
+Movement:Transport 4 4, 
+
+
+Conflict:Attack 18 19, Conflict:Attack 9 9, 
+Conflict:Attack 4 5, Life:Die 9 9, Life:Injure 13 14, 
+Life:Die 4 5, Life:Die 10 10, Conflict:Attack 13 13, 
+Conflict:Attack 5 5, Life:Die 9 10, 
+Life:Die 6 6, Conflict:Attack 12 12, 
+Life:Die 13 13, 
+Life:Injure 4 5, 
+
+Conflict:Attack 7 7, 
+
+Movement:Transport 6 6, Conflict:Attack 16 16, Movement:Transport 27 28, 
+
+
+
+Conflict:Attack 14 15, 
+Conflict:Attack 19 20, 
+
+
+
+
+
+
+
+
+Conflict:Attack 12 12, 
+
+Conflict:Attack 23 24, 
+
+
+
+
+
+
+Life:Die 13 14, Movement:Transport 6 6, 
+Movement:Transport 19 19, 
+
+
+Conflict:Attack 29 29, Conflict:Attack 5 5, Movement:Transport 22 22, Movement:Transport 26 26, 
+Justice:Arrest-Jail 8 8, Conflict:Attack 5 5, 
+
+
+
+
+
+Conflict:Attack 5 5, 
+
+
+
+Conflict:Attack 6 7, 
+Conflict:Attack 13 13, Conflict:Attack 11 12, 
+
+
+
+
+Life:Die 14 14, 
+Movement:Transport 9 9, Conflict:Attack 29 30, 
+
+Conflict:Attack 2 2, 
+Conflict:Attack 4 4, 
+
+
+
+
+Conflict:Attack 6 6, 
+
+Movement:Transport 11 12, 
+
+
+
+Conflict:Attack 12 13, 
+
+
+
+
+
+Movement:Transport 22 22, 
+Life:Die 8 9, 
+Conflict:Attack 4 4, 
+
+Conflict:Attack 5 5, Conflict:Attack 11 11, 
+
+
+Conflict:Attack 14 14, Movement:Transport 3 3, 
+
+Conflict:Attack 22 23, Conflict:Attack 36 36, 
+Movement:Transport 13 13, 
+
+
+Conflict:Attack 1 1, Conflict:Attack 9 10, 
+
+
+
+Movement:Transport 12 12, Movement:Transport 16 16, 
+Conflict:Attack 4 5, Movement:Transport 9 10, 
+Conflict:Attack 11 11, 
+Conflict:Attack 3 3, 
+Conflict:Attack 8 8, 
+
+Conflict:Attack 16 17, Conflict:Attack 3 3, 
+
+Conflict:Attack 19 19, 
+Conflict:Attack 13 14, 
+
+
+
+Conflict:Attack 3 3, Conflict:Attack 5 6, 
+Conflict:Attack 9 9, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Die 24 27, 
+Conflict:Attack 12 13, Life:Die 8 8, 
+
+
+
+Life:Die 9 9, Life:Die 14 14, Conflict:Attack 16 16, 
+Life:Die 1 1, Life:Die 9 9, 
+Life:Die 10 10, Conflict:Attack 19 19, 
+Life:Die 11 12, Conflict:Attack 25 25, 
+Life:Die 3 3, Life:Die 16 17, 
+
+
+
+Life:Die 2 2, 
+Life:Die 2 2, 
+
+
+Life:Die 7 7, 
+Conflict:Attack 5 5, 
+Conflict:Attack 4 5, 
+
+
+
+Movement:Transport 5 6, 
+Life:Die 19 19, 
+Movement:Transport 9 9, 
+Conflict:Attack 12 12, 
+
+
+Conflict:Attack 21 21, 
+Conflict:Attack 5 5, 
+
+
+
+
+
+
+
+Transaction:Transfer-Ownership 15 15, Life:Die 45 46, 
+Movement:Transport 4 4, 
+Conflict:Attack 36 37, 
+
+Conflict:Attack 14 14, 
+Movement:Transport 36 37, Movement:Transport 17 19, 
+
+Movement:Transport 8 8, Movement:Transport 78 80, Movement:Transport 57 59, 
+
+Movement:Transport 5 5, 
+Movement:Transport 4 5, Movement:Transport 25 26, 
+
+
+
+
+Movement:Transport 16 16, 
+
+
+
+
+
+
+
+
+Movement:Transport 6 7, 
+Conflict:Attack 21 21, 
+
+
+
+
+
+
+Movement:Transport 4 4, Business:End-Org 17 20, 
+
+
+Conflict:Attack 4 4, Movement:Transport 36 36, 
+
+Conflict:Attack 4 4, 
+
+
+
+
+
+
+
+
+Conflict:Attack 4 5, 
+
+Justice:Arrest-Jail 17 17, 
+
+
+
+Justice:Execute 11 11, 
+Conflict:Attack 8 8, 
+
+Movement:Transport 5 5, Conflict:Attack 13 14, Conflict:Attack 18 18, 
+Conflict:Attack 10 11, 
+Conflict:Attack 24 24, 
+
+
+
+
+
+
+
+Conflict:Attack 25 25, 
+
+
+
+
+
+Conflict:Attack 82 82, 
+
+
+
+
+
+
+
+
+
+Conflict:Attack 36 36, 
+
+
+
+
+
+
+Conflict:Attack 15 16, 
+Movement:Transport 4 4, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 7 8, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 19 20, 
+Conflict:Attack 6 6, Conflict:Attack 7 8, 
+
+
+Life:Die 2 2, 
+Life:Injure 2 2, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 4 5, 
+
+Conflict:Attack 2 3, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 13 13, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 35 35, 
+Conflict:Attack 7 7, 
+
+
+Movement:Transport 28 28, 
+
+
+
+
+Conflict:Attack 8 9, 
+
+Movement:Transport 14 14, 
+
+
+
+
+
+
+
+Conflict:Attack 6 7, 
+
+
+Movement:Transport 11 12, 
+
+Life:Die 38 38, 
+Conflict:Attack 3 3, 
+Life:Die 5 6, 
+
+
+
+Conflict:Attack 4 4, 
+Conflict:Attack 6 6, Conflict:Attack 21 21, 
+Life:Die 9 10, 
+Life:Injure 4 5, 
+Life:Injure 22 23, 
+
+Conflict:Attack 11 11, 
+
+Conflict:Attack 11 11, 
+Conflict:Attack 1 1, 
+
+
+
+Conflict:Attack 10 12, 
+Conflict:Attack 11 11, 
+Conflict:Attack 16 18, 
+
+
+Conflict:Attack 11 12, 
+
+
+
+
+Contact:Phone-Write 1 2, 
+
+Conflict:Attack 6 6, 
+
+Conflict:Attack 0 1, 
+
+Contact:Phone-Write 6 6, 
+Life:Marry 3 3, Movement:Transport 9 9, 
+
+Contact:Phone-Write 4 4, 
+
+
+
+
+
+Movement:Transport 4 4, 
+Movement:Transport 2 2, 
+
+
+Movement:Transport 4 4, 
+Conflict:Attack 1 1, 
+
+
+
+
+
+Movement:Transport 7 7, 
+Conflict:Attack 16 16, 
+
+
+
+
+
+Conflict:Attack 21 21, Contact:Phone-Write 12 12, 
+
+
+
+Conflict:Attack 12 13, Conflict:Attack 4 4, 
+Contact:Phone-Write 1 1, 
+Contact:Phone-Write 15 15, Movement:Transport 27 27, 
+
+
+
+Movement:Transport 25 25, Movement:Transport 42 42, Contact:Meet 50 50, 
+
+Conflict:Attack 12 13, Contact:Meet 2 2, Conflict:Attack 5 5, 
+Contact:Meet 3 3, 
+
+
+
+
+
+
+
+
+
+Life:Injure 11 12, Conflict:Attack 19 19, 
+Life:Die 1 2, Justice:Trial-Hearing 10 11, 
+
+
+
+Movement:Transport 3 3, 
+Movement:Transport 7 7, 
+
+
+
+
+
+Life:Die 4 4, 
+
+Life:Injure 22 23, 
+Life:Injure 7 7, Justice:Execute 9 10, 
+
+
+Life:Injure 15 15, Justice:Execute 26 27, 
+
+Justice:Sentence 1 1, 
+Movement:Transport 2 2, Life:Die 7 8, 
+Justice:Execute 2 2, Life:Die 5 6, 
+
+
+
+
+
+
+
+Justice:Trial-Hearing 11 12, Life:Die 5 5, 
+
+
+Life:Injure 28 29, 
+
+Life:Die 1 1, Conflict:Attack 16 16, 
+
+Life:Die 5 5, 
+Conflict:Attack 13 13, 
+
+Life:Die 7 7, 
+Conflict:Attack 11 11, 
+Life:Die 19 20, Conflict:Attack 31 32, 
+Conflict:Attack 7 9, Life:Die 3 3, 
+Life:Die 17 17, Conflict:Attack 28 29, 
+
+
+
+
+Life:Die 23 23, Life:Die 15 15, Conflict:Attack 20 21, 
+
+Life:Die 7 7, 
+Life:Die 6 6, Conflict:Attack 9 9, 
+Life:Die 14 14, 
+Life:Die 2 2, 
+Life:Die 1 1, 
+Conflict:Attack 15 15, 
+
+
+Conflict:Attack 11 12, 
+
+
+
+Life:Die 23 24, 
+Conflict:Attack 25 26, 
+
+
+
+Life:Die 13 13, Conflict:Attack 25 25, 
+
+Movement:Transport 59 59, Movement:Transport 20 20, Contact:Meet 27 27, Conflict:Attack 74 74, 
+Movement:Transport 11 12, 
+
+
+
+Conflict:Attack 20 21, 
+Contact:Phone-Write 7 7, 
+
+
+Conflict:Attack 21 21, 
+
+Contact:Phone-Write 32 32, 
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 2 2, 
+
+Contact:Phone-Write 10 10, 
+
+
+
+
+Conflict:Attack 2 2, 
+Contact:Phone-Write 8 8, 
+Contact:Phone-Write 4 4, 
+
+Contact:Phone-Write 8 8, 
+Contact:Phone-Write 8 8, 
+
+
+
+
+
+
+Contact:Phone-Write 5 5, 
+Contact:Phone-Write 4 4, 
+
+
+
+
+Contact:Phone-Write 14 14, 
+
+Contact:Phone-Write 1 1, 
+
+
+
+Conflict:Attack 15 15, Life:Die 14 14, 
+
+
+
+
+
+
+Conflict:Attack 15 16, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 5 5, Conflict:Attack 12 12, 
+
+
+
+
+
+
+
+
+Conflict:Attack 21 21, 
+
+
+
+
+
+
+
+Life:Die 12 12, 
+Life:Die 3 3, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 24 24, 
+
+
+
+
+
+
+
+
+Contact:Meet 28 28, 
+
+
+
+
+
+Conflict:Attack 22 23, 
+
+Movement:Transport 5 5, 
+
+
+
+Personnel:End-Position 9 10, 
+Movement:Transport 3 3, Personnel:Elect 15 15, 
+Personnel:End-Position 8 8, 
+
+
+
+
+Movement:Transport 11 12, 
+
+
+
+Conflict:Attack 14 15, 
+
+
+
+
+
+
+
+
+Conflict:Attack 9 9, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 8 8, 
+Personnel:Elect 18 18, 
+
+
+
+
+
+
+
+
+Conflict:Attack 17 17, 
+
+
+Life:Injure 10 11, 
+
+
+Conflict:Attack 18 18, 
+
+
+
+Movement:Transport 2 2, 
+
+Movement:Transport 10 10, Movement:Transport 22 23, Conflict:Attack 28 28, 
+Life:Injure 8 8, Life:Injure 15 15, 
+
+
+
+
+
+
+
+Movement:Transport 9 9, Movement:Transport 20 21, 
+Movement:Transport 7 7, 
+
+
+
+
+
+
+
+
+
+
+Contact:Phone-Write 3 3, Life:Be-Born 18 19, 
+
+
+Contact:Phone-Write 3 3, 
+
+
+
+
+Conflict:Attack 16 17, Contact:Phone-Write 20 20, 
+
+
+
+
+
+Contact:Phone-Write 4 4, 
+
+Contact:Phone-Write 28 28, 
+
+
+Conflict:Attack 3 3, 
+
+Life:Die 3 3, Conflict:Attack 7 9, 
+Life:Die 9 9, Conflict:Attack 12 12, 
+Life:Die 10 10, Conflict:Attack 13 14, 
+
+Life:Die 1 1, Life:Injure 3 3, Conflict:Attack 7 7, 
+
+
+
+Personnel:End-Position 5 5, 
+Movement:Transport 5 5, 
+Movement:Transport 2 2, 
+
+
+
+
+
+
+Conflict:Attack 5 6, Conflict:Attack 9 10, 
+Contact:Meet 16 16, 
+
+Contact:Phone-Write 1 1, 
+
+
+
+Conflict:Attack 19 20, 
+
+
+
+
+Contact:Phone-Write 8 8, 
+
+Contact:Phone-Write 12 12, 
+
+Contact:Phone-Write 4 4, 
+
+
+
+
+
+
+Movement:Transport 13 15, 
+
+
+
+Movement:Transport 29 30, 
+
+Conflict:Attack 16 16, Conflict:Attack 14 14, 
+
+
+
+
+Conflict:Attack 3 3, 
+
+
+Conflict:Attack 4 5, 
+
+Personnel:End-Position 18 18, Contact:Meet 27 28, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 5 5, Conflict:Attack 7 7, 
+
+
+Conflict:Attack 34 35, 
+
+Justice:Arrest-Jail 10 10, Justice:Charge-Indict 14 14, 
+Justice:Arrest-Jail 18 18, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business:Start-Org 16 16, Personnel:Elect 22 22, 
+
+
+
+
+
+Conflict:Attack 20 20, 
+
+
+
+
+
+
+Contact:Phone-Write 7 8, 
+
+
+Justice:Execute 14 14, 
+Justice:Execute 11 11, 
+Justice:Convict 2 2, Conflict:Attack 4 4, Life:Die 6 6, 
+
+Justice:Execute 6 8, 
+
+Conflict:Attack 6 6, 
+Conflict:Attack 4 4, Conflict:Attack 16 16, 
+Conflict:Attack 4 4, Movement:Transport 9 9, 
+
+
+
+
+
+Conflict:Attack 15 15, 
+
+
+
+Conflict:Attack 36 37, 
+
+
+
+
+
+
+
+
+
+Movement:Transport 5 5, Conflict:Attack 10 10, 
+
+
+
+Conflict:Attack 10 10, 
+
+Movement:Transport 9 9, 
+
+Conflict:Attack 11 11, 
+
+
+
+
+
+Conflict:Attack 9 10, 
+Life:Die 11 11, Conflict:Attack 17 17, 
+
+
+
+
+
+
+
+
+Conflict:Attack 7 7, 
+
+Conflict:Attack 10 10, 
+
+Justice:Charge-Indict 6 6, 
+
+
+
+Movement:Transport 7 7, 
+Life:Die 21 21, 
+Justice:Convict 2 2, Justice:Sentence 10 10, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business:Declare-Bankruptcy 35 35, 
+
+
+
+Movement:Transport 3 3, 
+Movement:Transport 13 13, 
+
+
+
+Movement:Transport 23 23, 
+
+Conflict:Attack 22 22, 
+
+
+
+Conflict:Attack 9 9, 
+Conflict:Demonstrate 8 8, 
+Life:Die 3 3, Conflict:Attack 15 15, 
+Life:Die 7 7, Life:Injure 10 10, 
+Conflict:Attack 9 9, 
+
+
+
+
+
+
+
+
+Justice:Release-Parole 5 5, 
+Conflict:Attack 13 13, 
+
+
+
+Movement:Transport 4 4, 
+Movement:Transport 5 5, 
+
+
+
+Movement:Transport 3 3, 
+
+
+Contact:Meet 4 4, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 19 19, 
+
+Transaction:Transfer-Money 5 5, 
+
+Conflict:Attack 8 8, Life:Die 14 14, 
+Life:Die 4 4, 
+Life:Die 6 6, 
+Life:Injure 4 4, 
+Conflict:Attack 6 6, 
+Movement:Transport 9 9, 
+Movement:Transport 10 10, 
+Conflict:Attack 12 12, Movement:Transport 4 4, 
+Conflict:Attack 1 1, 
+
+Justice:Convict 0 0, Justice:Trial-Hearing 9 9, Justice:Charge-Indict 14 14, 
+Justice:Convict 12 12, Life:Die 16 16, Conflict:Attack 24 24, 
+Justice:Trial-Hearing 13 13, Justice:Trial-Hearing 15 15, Conflict:Attack 27 27, 
+
+Justice:Convict 3 3, Justice:Execute 19 19, 
+
+Conflict:Attack 6 6, Life:Die 5 5, 
+Life:Die 4 4, 
+Life:Die 6 6, Life:Injure 14 14, 
+
+
+
+
+Contact:Meet 2 2, 
+Contact:Meet 16 16, 
+
+
+
+Contact:Phone-Write 1 1, 
+
+
+
+
+
+Justice:Execute 7 7, Conflict:Attack 18 18, 
+Conflict:Attack 15 15, 
+Conflict:Attack 41 41, Conflict:Attack 48 48, 
+
+
+
+Movement:Transport 9 9, 
+Justice:Arrest-Jail 3 3, 
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 5 5, 
+
+Conflict:Attack 8 8, 
+
+
+
+
+Personnel:End-Position 11 12, 
+Personnel:End-Position 5 5, Justice:Charge-Indict 22 22, 
+Personnel:End-Position 8 9, 
+Justice:Charge-Indict 9 9, 
+Justice:Charge-Indict 1 1, 
+Justice:Charge-Indict 5 5, 
+Justice:Charge-Indict 2 2, 
+Justice:Charge-Indict 4 4, 
+Justice:Convict 1 1, Justice:Sentence 7 7, Justice:Fine 19 19, 
+
+
+Business:End-Org 8 8, 
+Business:Start-Org 14 14, 
+
+
+Business:End-Org 7 7, 
+
+Transaction:Transfer-Ownership 3 3, 
+
+
+Business:End-Org 14 14, 
+Personnel:Start-Position 13 13, 
+
+
+Transaction:Transfer-Ownership 3 3, 
+
+
+Justice:Sentence 3 3, 
+Justice:Fine 4 4, Justice:Fine 12 12, 
+
+Justice:Release-Parole 3 3, Justice:Arrest-Jail 15 15, 
+
+Justice:Charge-Indict 5 5, 
+
+Justice:Arrest-Jail 5 5, 
+Justice:Arrest-Jail 15 15, 
+
+Justice:Charge-Indict 2 2, 
+
+
+
+
+
+Justice:Charge-Indict 17 17, 
+
+Justice:Arrest-Jail 5 6, 
+
+
+Justice:Arrest-Jail 4 4, 
+
+
+Justice:Convict 8 8, Justice:Trial-Hearing 5 5, Justice:Sentence 11 11, 
+Justice:Trial-Hearing 14 14, 
+Justice:Trial-Hearing 1 1, 
+
+Justice:Release-Parole 16 16, 
+Justice:Convict 14 14, 
+Justice:Pardon 17 17, 
+
+Conflict:Demonstrate 8 8, 
+Conflict:Attack 8 8, 
+
+Conflict:Demonstrate 6 6, 
+
+
+Contact:Meet 8 8, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Injure 6 6, 
+
+Justice:Arrest-Jail 8 8, 
+Justice:Arrest-Jail 3 3, Conflict:Attack 5 5, 
+Movement:Transport 8 8, 
+Movement:Transport 12 12, 
+Life:Die 2 2, 
+Life:Die 5 5, Life:Die 7 7, 
+
+Justice:Charge-Indict 13 13, 
+
+
+Movement:Transport 11 11, Movement:Transport 4 4, 
+
+
+Contact:Phone-Write 8 8, 
+Movement:Transport 16 16, Contact:Phone-Write 4 5, 
+
+Life:Die 9 9, 
+Life:Injure 7 7, 
+Life:Injure 1 1, Movement:Transport 13 13, 
+
+
+Justice:Charge-Indict 9 9, Conflict:Attack 12 12, 
+
+Movement:Transport 12 12, 
+
+
+
+
+Justice:Charge-Indict 10 10, 
+
+
+Movement:Transport 14 14, 
+
+
+Contact:Phone-Write 10 10, 
+Conflict:Attack 19 19, 
+Life:Die 26 26, Movement:Transport 42 42, Life:Injure 31 31, Movement:Transport 34 34, 
+
+
+Contact:Phone-Write 6 6, Conflict:Attack 19 19, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Phone-Write 6 6, Conflict:Attack 18 18, 
+Contact:Phone-Write 4 4, 
+Contact:Phone-Write 1 1, 
+Movement:Transport 21 21, 
+
+
+
+Conflict:Attack 5 5, 
+Conflict:Attack 12 12, 
+Conflict:Attack 9 9, 
+
+Conflict:Attack 53 53, Conflict:Attack 14 14, 
+
+Conflict:Attack 26 26, Contact:Meet 5 5, 
+Conflict:Attack 21 21, 
+
+
+
+
+
+Justice:Sentence 7 7, 
+Justice:Convict 8 8, 
+
+Justice:Appeal 1 1, 
+Justice:Arrest-Jail 6 6, Justice:Sentence 11 11, 
+
+
+
+
+
+
+Contact:Phone-Write 2 2, 
+Life:Die 32 32, Justice:Sentence 45 45, Conflict:Attack 24 24, 
+Life:Injure 16 16, Life:Die 7 7, 
+Life:Die 4 4, Life:Die 15 15, Conflict:Attack 12 12, 
+
+Conflict:Demonstrate 11 11, 
+Conflict:Attack 20 20, 
+Conflict:Demonstrate 4 4, 
+
+
+
+
+
+
+Conflict:Attack 6 6, 
+Life:Die 8 8, Life:Die 17 17, Conflict:Attack 14 14, 
+Movement:Transport 6 6, Contact:Meet 8 8, 
+
+Life:Die 13 13, 
+Conflict:Attack 5 5, 
+
+
+
+
+
+
+
+Movement:Transport 25 25, 
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 13 13, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 24 24, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 19 19, Movement:Transport 21 21, 
+
+
+
+
+
+
+Conflict:Attack 14 14, 
+
+Conflict:Attack 19 19, 
+
+
+Conflict:Attack 4 4, Conflict:Attack 14 14, 
+
+
+
+Contact:Phone-Write 11 11, 
+
+Conflict:Attack 7 7, 
+
+
+
+
+Conflict:Attack 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 48 48, 
+
+Conflict:Attack 22 22, 
+Conflict:Attack 15 15, 
+
+Conflict:Attack 4 4, 
+
+
+
+
+
+Conflict:Attack 10 10, 
+Personnel:End-Position 12 12, 
+Conflict:Attack 5 5, 
+
+
+
+
+
+Transaction:Transfer-Ownership 11 11, 
+
+
+Movement:Transport 8 8, Conflict:Attack 12 12, 
+
+Conflict:Attack 4 4, 
+
+
+Conflict:Attack 3 3, 
+
+Conflict:Attack 12 12, 
+
+
+
+
+
+
+
+Conflict:Attack 22 22, 
+
+
+
+Conflict:Attack 12 12, 
+
+
+
+
+Movement:Transport 10 10, 
+Movement:Transport 30 30, Conflict:Attack 22 22, 
+
+Movement:Transport 26 26, 
+
+
+Conflict:Attack 22 22, 
+Conflict:Attack 4 4, 
+
+Conflict:Attack 15 15, 
+Conflict:Attack 12 12, 
+
+
+
+
+
+
+
+
+
+Conflict:Attack 12 12, 
+
+
+
+
+Conflict:Attack 6 6, 
+
+
+Conflict:Attack 8 8, 
+Conflict:Attack 10 10, 
+
+
+Conflict:Attack 15 15, Conflict:Attack 8 8, 
+
+
+
+
+
+
+Conflict:Attack 11 11, 
+Conflict:Attack 12 12, 
+Conflict:Attack 15 15, 
+Life:Die 19 19, 
+Conflict:Attack 12 12, 
+
+
+Business:Declare-Bankruptcy 7 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 13 14, 
+Movement:Transport 12 12, 
+
+
+Movement:Transport 8 8, 
+Personnel:End-Position 9 9, 
+
+
+Movement:Transport 11 12, 
+Movement:Transport 13 13, 
+Personnel:End-Position 17 17, 
+Personnel:End-Position 2 2, 
+
+Conflict:Attack 6 6, 
+
+
+Conflict:Attack 14 14, 
+
+
+Personnel:End-Position 12 12, 
+Personnel:Start-Position 11 11, 
+
+
+
+
+
+
+
+Conflict:Attack 3 3, 
+
+Conflict:Attack 9 9, 
+Conflict:Attack 14 14, 
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 14 14, 
+
+
+
+
+
+Movement:Transport 21 21, 
+Movement:Transport 25 25, Justice:Arrest-Jail 3 3, 
+
+
+
+Movement:Transport 21 21, 
+Movement:Transport 27 27, 
+
+Movement:Transport 17 17, 
+
+Conflict:Attack 11 11, 
+
+
+Life:Die 13 13, 
+Conflict:Attack 8 8, 
+Contact:Phone-Write 11 11, 
+
+
+Movement:Transport 8 8, 
+Contact:Phone-Write 8 8, 
+Contact:Phone-Write 6 6, 
+Conflict:Attack 6 6, Conflict:Attack 17 17, 
+Movement:Transport 9 9, 
+
+Movement:Transport 22 22, 
+
+Life:Injure 5 5, 
+Conflict:Attack 5 5, 
+Conflict:Attack 4 4, Life:Die 7 7, 
+
+
+
+Conflict:Attack 6 6, 
+
+Life:Be-Born 4 4, 
+
+
+
+Life:Be-Born 10 10, 
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 2 2, 
+
+
+
+
+
+
+Life:Marry 6 6, 
+
+
+
+
+
+Conflict:Attack 0 0, Movement:Transport 39 39, 
+
+Conflict:Attack 26 26, Conflict:Attack 45 45, Conflict:Attack 63 63, Transaction:Transfer-Ownership 72 72, 
+
+
+Conflict:Attack 11 11, 
+
+Conflict:Attack 7 7, 
+
+
+Conflict:Attack 9 9, Conflict:Attack 25 25, 
+
+Conflict:Attack 16 16, 
+Conflict:Attack 2 2, 
+Conflict:Attack 1 1, 
+
+Transaction:Transfer-Ownership 21 21, 
+Movement:Transport 8 8, 
+Transaction:Transfer-Ownership 1 1, 
+
+
+Conflict:Attack 7 7, 
+Movement:Transport 7 7, 
+Conflict:Attack 5 5, 
+
+Conflict:Attack 6 6, 
+Conflict:Attack 6 6, 
+
+
+
+
+Conflict:Attack 12 12, 
+
+Conflict:Attack 2 2, Movement:Transport 12 12, 
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 11 11, 
+Conflict:Attack 6 6, 
+Conflict:Attack 2 2, 
+
+
+
+Transaction:Transfer-Ownership 16 16, 
+
+
+
+
+Conflict:Attack 8 8, Life:Die 23 23, 
+Life:Injure 6 6, 
+Life:Die 3 3, 
+
+
+
+Contact:Meet 13 13, Movement:Transport 6 6, 
+
+
+
+
+Contact:Meet 18 19, Conflict:Attack 24 24, 
+
+
+
+
+Movement:Transport 10 11, 
+
+
+
+
+
+
+
+
+Conflict:Attack 15 15, 
+
+Conflict:Attack 33 33, 
+
+
+
+
+
+
+Conflict:Attack 11 11, 
+
+
+
+
+
+Movement:Transport 9 9, 
+
+
+
+
+Conflict:Attack 9 9, 
+
+
+
+
+Movement:Transport 8 8, 
+Movement:Transport 15 15, Contact:Meet 22 22, 
+Contact:Meet 1 1, 
+Contact:Meet 1 1, 
+
+
+
+
+Contact:Meet 17 17, 
+
+
+
+Contact:Meet 19 19, 
+
+
+
+
+
+
+Life:Die 24 24, Conflict:Attack 15 15, 
+
+Conflict:Attack 5 6, 
+Conflict:Attack 7 7, 
+
+
+Movement:Transport 2 2, 
+
+
+Life:Die 8 8, Conflict:Attack 10 11, 
+
+
+
+Conflict:Attack 11 11, 
+
+Conflict:Attack 4 4, 
+Conflict:Attack 3 3, Conflict:Attack 10 10, 
+Conflict:Attack 1 1, Life:Die 2 2, 
+Life:Die 4 4, 
+
+
+Conflict:Attack 21 21, 
+Conflict:Attack 4 4, Contact:Meet 26 26, 
+Conflict:Attack 12 13, 
+
+
+
+Conflict:Attack 5 5, 
+
+
+
+
+
+
+Movement:Transport 2 2, 
+Conflict:Attack 16 16, 
+
+
+Movement:Transport 1 1, 
+Movement:Transport 11 12, 
+
+
+
+
+
+
+Conflict:Attack 6 6, 
+
+Conflict:Attack 4 4, 
+Conflict:Attack 6 6, 
+Conflict:Attack 3 3, 
+
+
+
+
+
+Conflict:Attack 23 23, Movement:Transport 1 1, 
+
+
+Contact:Meet 20 20, 
+
+Justice:Charge-Indict 2 2, 
+
+
+
+Conflict:Attack 2 2, 
+
+
+Personnel:End-Position 5 5, 
+Life:Die 19 19, 
+
+
+
+
+
+Justice:Charge-Indict 1 1, 
+
+Justice:Charge-Indict 9 9, 
+
+
+
+
+
+Conflict:Attack 4 4, 
+Conflict:Attack 7 7, 
+
+
+
+Conflict:Attack 11 11, 
+
+Conflict:Attack 4 4, 
+
+
+
+
+Movement:Transport 12 13, 
+
+
+
+Contact:Phone-Write 4 4, 
+
+
+Conflict:Attack 12 12, Conflict:Attack 14 14, Movement:Transport 56 56, 
+
+
+Movement:Transport 1 1, 
+
+
+
+
+
+
+
+
+Contact:Meet 7 7, 
+
+
+
+
+
+Contact:Phone-Write 4 4, 
+
+
+
+
+
+
+
+
+
+Contact:Meet 2 2, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 9 9, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Ownership 11 11, Conflict:Attack 37 37, Life:Die 55 55, 
+
+
+Justice:Charge-Indict 2 2, Justice:Charge-Indict 5 5, 
+Conflict:Attack 9 9, 
+
+Justice:Arrest-Jail 5 5, 
+Conflict:Attack 5 5, Life:Die 7 7, 
+
+
+
+Life:Die 21 21, 
+Life:Be-Born 16 16, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Die 40 40, 
+Life:Injure 18 18, Conflict:Attack 46 46, Conflict:Attack 49 49, 
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 13 13, 
+
+
+
+
+Business:Declare-Bankruptcy 16 16, 
+
+Business:Declare-Bankruptcy 12 13, 
+
+
+
+
+
+
+
+
+
+
+
+Justice:Convict 2 2, Conflict:Attack 4 4, 
+
+Conflict:Attack 2 2, 
+
+Conflict:Attack 7 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Die 1 1, Justice:Sentence 18 18, 
+
+Justice:Sentence 10 10, 
+
+
+Conflict:Attack 14 14, 
+
+
+
+Conflict:Attack 9 9, Conflict:Attack 30 30, Life:Die 21 21, 
+
+
+Movement:Transport 18 18, 
+
+
+
+
+
+
+
+
+Justice:Arrest-Jail 3 3, 
+Conflict:Attack 6 6, 
+
+Conflict:Attack 20 20, Conflict:Attack 32 32, Movement:Transport 28 28, 
+
+
+
+
+
+
+
+Conflict:Attack 17 17, 
+Justice:Release-Parole 19 19, 
+
+
+Conflict:Attack 12 12, 
+Movement:Transport 7 7, 
+Life:Injure 22 22, 
+
+
+
+
+Life:Die 14 14, 
+Justice:Arrest-Jail 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 9 9, 
+
+
+
+
+
+
+
+Conflict:Attack 9 9, 
+
+
+
+
+
+Movement:Transport 2 2, 
+Justice:Arrest-Jail 9 9, 
+
+
+
+
+Business:End-Org 6 8, 
+Personnel:End-Position 3 3, 
+
+
+
+Business:Declare-Bankruptcy 8 8, 
+
+
+Business:Declare-Bankruptcy 13 13, 
+Business:Declare-Bankruptcy 28 28, 
+
+
+
+
+
+
+
+
+Business:Declare-Bankruptcy 11 11, 
+
+Business:Declare-Bankruptcy 11 11, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business:Declare-Bankruptcy 24 24, 
+
+
+
+
+
+
+
+
+Conflict:Attack 4 4, 
+
+
+
+Movement:Transport 34 35, Movement:Transport 25 25, 
+
+Movement:Transport 7 8, 
+Movement:Transport 4 5, 
+
+
+Movement:Transport 1 2, 
+Business:End-Org 12 12, 
+
+
+Movement:Transport 2 2, Movement:Transport 12 13, 
+
+
+
+
+
+
+
+
+
+Movement:Transport 12 12, 
+
+
+Conflict:Attack 15 15, 
+
+Movement:Transport 2 2, 
+
+Contact:Phone-Write 9 9, Movement:Transport 14 14, 
+
+
+
+Movement:Transport 25 25, 
+
+Contact:Phone-Write 12 12, 
+Movement:Transport 1 1, 
+Movement:Transport 4 4, Contact:Phone-Write 16 16, 
+Contact:Phone-Write 4 4, 
+Contact:Phone-Write 14 14, 
+Contact:Phone-Write 6 6, 
+
+
+
+Contact:Meet 10 10, 
+Contact:Phone-Write 4 4, 
+
+Contact:Phone-Write 1 1, Contact:Phone-Write 7 7, 
+Contact:Phone-Write 2 2, 
+
+Contact:Phone-Write 5 5, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 25 25, 
+Personnel:End-Position 7 7, Personnel:Start-Position 14 14, 
+
+
+Business:Declare-Bankruptcy 17 17, 
+
+Personnel:End-Position 2 2, 
+
+Business:Declare-Bankruptcy 23 23, 
+Personnel:End-Position 10 10, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 6 6, 
+
+Personnel:End-Position 8 8, 
+
+Personnel:End-Position 13 13, 
+
+
+Contact:Meet 4 4, 
+
+
+
+
+
+
+
+
+Conflict:Attack 17 17, Business:Start-Org 8 8, 
+
+
+
+
+
+
+
+
+Justice:Arrest-Jail 12 12, 
+
+
+
+
+
+Conflict:Attack 3 3, 
+Justice:Sentence 4 5, 
+Conflict:Attack 24 24, 
+
+
+
+
+Conflict:Attack 1 1, 
+
+
+
+
+
+
+
+
+
+
+Contact:Meet 2 2, 
+Contact:Meet 3 4, 
+
+Life:Be-Born 2 2, 
+
+
+
+
+
+
+
+
+
+
+Life:Die 22 22, 
+Life:Die 12 12, 
+
+Life:Die 18 18, Life:Die 29 29, 
+
+Justice:Charge-Indict 7 7, 
+Justice:Charge-Indict 10 10, 
+Justice:Charge-Indict 7 7, Justice:Charge-Indict 19 19, 
+
+
+Business:Declare-Bankruptcy 7 7, 
+
+Justice:Sue 14 14, 
+
+Justice:Sue 16 16, 
+
+
+
+Life:Die 34 34, 
+
+Life:Die 8 8, 
+
+
+
+
+Personnel:End-Position 8 8, 
+
+
+
+Movement:Transport 4 4, 
+
+
+
+
+
+
+
+Conflict:Attack 14 14, Conflict:Demonstrate 23 23, 
+Contact:Phone-Write 3 3, 
+Life:Die 10 10, 
+
+
+Conflict:Attack 18 18, Life:Injure 4 4, 
+
+
+
+
+Movement:Transport 19 19, 
+Contact:Meet 8 8, 
+
+Movement:Transport 5 5, 
+
+
+
+
+
+
+Life:Die 6 6, 
+Personnel:End-Position 7 7, 
+
+Personnel:End-Position 1 1, 
+
+Personnel:End-Position 3 3, 
+Personnel:End-Position 1 1, 
+
+
+
+Movement:Transport 17 17, 
+
+
+Movement:Transport 6 6, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 17 17, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Meet 11 11, 
+Conflict:Attack 20 20, 
+Conflict:Attack 23 23, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 68 68, 
+
+Movement:Transport 45 45, 
+
+
+
+
+
+
+
+
+
+Movement:Transport 21 22, Movement:Transport 31 31, 
+Movement:Transport 5 5, 
+
+
+Contact:Phone-Write 12 12, 
+Life:Die 21 21, Justice:Charge-Indict 11 11, 
+Justice:Charge-Indict 4 4, Life:Die 7 7, 
+Justice:Charge-Indict 7 7, 
+
+
+
+Movement:Transport 13 13, 
+
+
+
+
+
+Movement:Transport 20 20, 
+
+
+
+
+
+
+
+Life:Be-Born 3 3, Movement:Transport 22 22, 
+
+
+
+
+
+
+Movement:Transport 3 3, 
+
+
+
+Movement:Transport 2 2, 
+
+
+Conflict:Attack 3 3, 
+
+
+
+Movement:Transport 8 8, 
+
+
+
+
+Conflict:Attack 11 11, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Die 10 10, 
+
+
+
+
+
+
+
+
+
+Life:Die 3 3, 
+Life:Die 8 8, 
+
+
+
+
+Life:Die 8 8, 
+Contact:Phone-Write 4 4, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business:Merge-Org 4 4, 
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Ownership 15 15, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 11 11, Life:Die 23 23, 
+Life:Die 10 10, 
+Life:Die 14 14, 
+Conflict:Attack 3 3, 
+
+
+
+Conflict:Attack 6 6, 
+Conflict:Attack 4 4, 
+Life:Die 9 9, 
+
+
+Conflict:Attack 3 3, 
+
+Conflict:Attack 9 9, Conflict:Attack 14 14, Conflict:Attack 24 24, 
+Conflict:Attack 7 7, 
+Conflict:Attack 4 4, 
+Conflict:Attack 5 5, 
+Life:Die 11 11, 
+Life:Die 6 6, Conflict:Attack 4 4, 
+Life:Die 6 6, Life:Die 15 15, 
+
+Movement:Transport 19 19, Conflict:Attack 26 28, Conflict:Attack 12 12, 
+
+Life:Die 5 5, 
+
+
+
+
+Conflict:Attack 11 11, 
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 4 4, 
+
+
+
+Transaction:Transfer-Money 12 12, 
+
+
+
+Movement:Transport 4 4, 
+
+
+
+
+
+
+Conflict:Attack 6 6, 
+
+
+
+Conflict:Attack 1 1, 
+
+
+
+
+
+
+Movement:Transport 7 7, 
+Life:Injure 8 8, Life:Die 10 10, 
+
+Conflict:Attack 18 18, Conflict:Attack 33 34, 
+Conflict:Attack 42 42, 
+
+
+
+Conflict:Attack 13 13, 
+Conflict:Attack 16 16, 
+Conflict:Attack 29 29, Life:Die 23 23, 
+
+
+
+
+
+
+
+
+
+Conflict:Attack 21 21, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 1 1, 
+
+
+
+
+Life:Die 15 15, Conflict:Attack 32 32, Conflict:Attack 45 45, Conflict:Attack 50 50, Conflict:Attack 55 55, 
+Conflict:Attack 6 6, 
+Conflict:Attack 21 21, 
+
+Conflict:Attack 14 14, 
+
+Conflict:Demonstrate 7 7, 
+
+
+
+
+
+
+Contact:Meet 26 26, 
+Contact:Meet 6 6, 
+
+
+
+
+
+Life:Die 5 5, 
+
+
+
+
+Movement:Transport 7 7, 
+
+
+
+Life:Die 4 4, Life:Injure 6 6, 
+
+
+
+
+Life:Die 16 16, Life:Die 12 12, 
+
+Life:Die 7 7, Life:Die 10 10, 
+
+Life:Die 30 30, 
+
+Justice:Arrest-Jail 24 24, 
+
+Transaction:Transfer-Ownership 3 3, 
+
+
+
+
+
+
+Justice:Charge-Indict 12 12, 
+Justice:Charge-Indict 1 1, 
+
+
+
+Justice:Charge-Indict 15 15, Justice:Charge-Indict 22 22, 
+
+Justice:Charge-Indict 28 28, Justice:Charge-Indict 10 10, 
+
+Justice:Charge-Indict 11 11, 
+
+Personnel:Start-Position 2 2, 
+
+
+
+Personnel:Start-Position 2 2, Transaction:Transfer-Money 7 7, 
+
+
+Personnel:Start-Position 17 17, 
+
+Personnel:End-Position 7 7, 
+Transaction:Transfer-Money 18 18, Contact:Meet 9 9, 
+
+
+Personnel:End-Position 8 8, 
+
+Contact:Meet 4 4, 
+
+
+
+
+
+
+Life:Die 11 11, 
+
+
+
+
+
+Movement:Transport 12 12, 
+Movement:Transport 6 6, 
+
+
+Conflict:Attack 16 16, 
+
+
+Conflict:Attack 32 32, Movement:Transport 10 10, 
+Movement:Transport 11 11, 
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 2 2, 
+
+
+Conflict:Attack 23 23, 
+
+
+
+
+Conflict:Attack 19 19, 
+Personnel:Elect 30 30, Life:Die 12 12, 
+
+
+
+
+
+
+
+
+
+Justice:Trial-Hearing 22 22, Life:Die 34 34, 
+Conflict:Attack 3 3, Justice:Sentence 7 7, 
+Justice:Execute 5 6, Justice:Convict 10 10, 
+Justice:Trial-Hearing 1 1, 
+Life:Die 10 10, Life:Injure 16 16, 
+Justice:Charge-Indict 12 12, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 2 2, Life:Injure 11 11, 
+Justice:Arrest-Jail 6 6, 
+Justice:Sentence 11 11, Life:Die 18 18, 
+
+
+Life:Die 5 5, Justice:Arrest-Jail 2 2, 
+
+
+
+
+
+
+
+
+Life:Marry 18 18, 
+
+
+
+
+
+
+
+
+Life:Be-Born 2 2, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 1 1, 
+
+
+Life:Die 10 10, 
+
+
+Movement:Transport 15 15, 
+
+
+
+
+
+
+Personnel:End-Position 5 5, 
+
+Contact:Meet 8 8, 
+
+
+
+
+
+
+
+
+Life:Marry 5 7, 
+Life:Marry 6 6, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 11 12, Personnel:End-Position 27 28, 
+
+Personnel:End-Position 19 20, 
+
+
+Personnel:Start-Position 5 5, Personnel:End-Position 15 15, 
+
+
+Justice:Sue 16 16, 
+Personnel:End-Position 17 17, 
+Personnel:End-Position 3 3, 
+
+
+
+Personnel:End-Position 2 2, 
+
+
+
+Life:Marry 16 16, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 14 14, 
+
+
+
+
+
+
+
+Conflict:Attack 11 11, 
+Conflict:Attack 14 14, 
+Conflict:Attack 3 3, 
+Conflict:Attack 6 6, Conflict:Attack 15 15, Conflict:Attack 39 39, 
+
+
+Conflict:Attack 11 11, 
+
+Conflict:Attack 3 3, 
+
+Conflict:Attack 4 4, 
+
+
+Life:Injure 5 5, Life:Injure 3 3, 
+
+Conflict:Attack 2 2, 
+Conflict:Attack 8 8, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 23 23, Conflict:Attack 9 9, Conflict:Attack 11 11, 
+Conflict:Attack 7 7, 
+
+
+
+
+Life:Die 2 2, 
+
+
+
+
+Movement:Transport 12 12, 
+
+
+
+
+
+
+Life:Die 6 6, 
+Justice:Arrest-Jail 2 2, Contact:Phone-Write 17 17, 
+Justice:Arrest-Jail 14 14, 
+Life:Die 34 34, 
+Contact:Phone-Write 15 15, 
+
+
+
+Justice:Arrest-Jail 2 2, 
+Justice:Arrest-Jail 2 2, Justice:Extradite 13 13, 
+Justice:Arrest-Jail 17 17, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Meet 9 9, 
+
+Contact:Meet 6 6, 
+
+
+
+Conflict:Demonstrate 7 7, 
+
+
+
+Justice:Sue 7 7, 
+
+
+
+Justice:Sue 10 10, 
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 2 2, Contact:Meet 8 8, 
+
+
+
+Justice:Release-Parole 4 4, Justice:Release-Parole 11 11, Justice:Arrest-Jail 8 8, 
+
+
+Justice:Release-Parole 53 53, Justice:Release-Parole 7 7, Life:Die 14 14, Conflict:Attack 42 42, Justice:Arrest-Jail 2 2, 
+Justice:Arrest-Jail 1 1, 
+Justice:Sentence 21 21, 
+Justice:Release-Parole 17 17, 
+Justice:Release-Parole 5 5, 
+Life:Die 13 13, Conflict:Attack 11 11, 
+Life:Die 13 13, Justice:Charge-Indict 10 10, 
+Personnel:End-Position 6 6, 
+Justice:Release-Parole 45 45, 
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 59 59, 
+
+
+
+
+
+
+
+Contact:Meet 13 13, 
+Contact:Meet 3 3, Movement:Transport 9 9, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Justice:Sue 4 4, 
+Transaction:Transfer-Money 8 8, 
+Justice:Charge-Indict 6 6, 
+
+
+
+
+
+
+
+
+Movement:Transport 15 15, Contact:Meet 26 26, 
+Contact:Meet 4 4, 
+Movement:Transport 3 3, Contact:Meet 14 14, 
+
+
+
+
+
+
+
+Justice:Charge-Indict 9 9, 
+
+
+
+
+
+
+Justice:Charge-Indict 9 9, 
+
+
+
+Conflict:Attack 19 20, Justice:Trial-Hearing 2 2, Life:Die 9 9, 
+Conflict:Attack 8 8, 
+Justice:Trial-Hearing 3 3, 
+Justice:Trial-Hearing 2 2, 
+
+
+
+Movement:Transport 28 28, 
+
+
+
+Movement:Transport 2 2, 
+
+
+
+
+Movement:Transport 15 15, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Be-Born 9 9, 
+Life:Be-Born 2 2, 
+
+
+Life:Be-Born 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 11 11, 
+
+
+Movement:Transport 17 17, 
+
+
+
+
+
+
+Movement:Transport 5 5, 
+
+
+
+Movement:Transport 25 25, 
+
+
+Contact:Meet 6 6, 
+Contact:Meet 6 6, 
+
+
+
+
+Contact:Meet 37 37, 
+
+
+Life:Die 5 5, 
+
+
+
+
+Justice:Trial-Hearing 17 17, 
+
+Justice:Arrest-Jail 23 23, 
+Life:Die 5 5, Justice:Trial-Hearing 2 2, 
+
+
+Justice:Appeal 12 12, Justice:Sentence 16 16, 
+Justice:Trial-Hearing 6 6, 
+Justice:Convict 10 10, 
+Justice:Sentence 4 4, 
+Justice:Charge-Indict 1 1, 
+Justice:Sentence 5 5, 
+Conflict:Attack 12 12, 
+
+
+
+Justice:Sentence 11 11, Justice:Sentence 20 20, 
+
+
+Personnel:End-Position 1 1, 
+Justice:Charge-Indict 9 9, 
+
+Business:Declare-Bankruptcy 2 2, Personnel:End-Position 3 3, Justice:Charge-Indict 27 27, 
+
+Personnel:End-Position 2 2, Business:Declare-Bankruptcy 12 12, 
+Justice:Charge-Indict 7 7, 
+
+
+
+Justice:Charge-Indict 10 10, 
+
+Contact:Phone-Write 6 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 14 14, 
+
+
+
+
+
+Justice:Trial-Hearing 6 6, 
+Justice:Trial-Hearing 21 21, 
+
+Justice:Trial-Hearing 4 4, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Justice:Fine 19 19, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 17 17, 
+Personnel:End-Position 20 20, Justice:Arrest-Jail 27 27, Justice:Charge-Indict 31 31, 
+Justice:Trial-Hearing 6 6, 
+Justice:Trial-Hearing 7 7, 
+
+Justice:Arrest-Jail 17 17, Justice:Arrest-Jail 26 26, Justice:Trial-Hearing 31 31, 
+
+Conflict:Attack 8 8, Conflict:Attack 15 15, Conflict:Attack 38 38, Conflict:Attack 34 34, 
+
+
+
+Personnel:End-Position 0 0, 
+
+
+
+
+
+
+Business:Declare-Bankruptcy 14 14, 
+
+
+
+
+
+
+
+
+Justice:Charge-Indict 2 2, 
+Justice:Charge-Indict 14 14, Personnel:End-Position 2 2, 
+
+
+
+
+Justice:Charge-Indict 5 5, 
+
+Justice:Charge-Indict 11 11, 
+
+
+
+
+
+
+
+Justice:Charge-Indict 11 11, 
+
+
+
+
+
+
+
+
+Contact:Meet 2 3, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Justice:Sentence 14 14, 
+
+Justice:Fine 3 3, Justice:Sentence 22 22, 
+
+
+Justice:Charge-Indict 1 1, 
+
+Justice:Sentence 3 3, 
+
+Justice:Sentence 10 10, 
+
+Justice:Sentence 12 12, 
+
+
+
+
+Conflict:Attack 9 9, 
+Conflict:Attack 4 4, 
+Conflict:Attack 1 1, 
+Life:Die 5 5, 
+
+
+
+
+Conflict:Attack 4 4, 
+Life:Die 6 6, Life:Die 15 15, Conflict:Attack 10 10, 
+Life:Injure 4 4, Conflict:Attack 7 7, 
+
+Conflict:Attack 5 5, Life:Die 24 24, Life:Die 38 38, Life:Injure 29 29, Life:Injure 34 35, 
+
+
+
+Justice:Sentence 4 4, Justice:Fine 20 20, 
+
+Justice:Sentence 7 7, 
+Justice:Fine 17 17, 
+
+
+
+Conflict:Attack 9 9, Conflict:Attack 12 12, 
+Conflict:Attack 23 23, Conflict:Attack 3 3, 
+Life:Die 10 10, Life:Injure 4 4, 
+Life:Injure 3 3, Conflict:Attack 6 6, 
+Conflict:Attack 2 2, Conflict:Attack 7 7, 
+
+Conflict:Attack 20 20, 
+Conflict:Attack 6 6, 
+
+Conflict:Attack 30 30, Conflict:Attack 17 17, 
+Conflict:Attack 14 14, 
+
+
+
+Movement:Transport 9 9, Movement:Transport 19 19, 
+
+
+
+Movement:Transport 5 5, 
+
+
+
+Movement:Transport 15 15, 
+
+Movement:Transport 23 23, 
+Movement:Transport 10 10, 
+
+
+Justice:Sentence 5 5, 
+
+
+Justice:Sentence 8 8, Business:Declare-Bankruptcy 22 22, 
+
+
+
+
+Conflict:Attack 6 6, 
+Conflict:Attack 14 14, 
+Conflict:Attack 8 8, 
+
+
+
+
+Conflict:Attack 18 18, Life:Die 28 28, 
+
+
+Conflict:Attack 20 20, 
+Conflict:Attack 11 11, Life:Die 21 21, Conflict:Attack 71 71, 
+Life:Die 8 8, 
+Conflict:Attack 26 26, 
+
+Conflict:Attack 9 9, 
+Conflict:Attack 13 13, Life:Die 4 4, Life:Die 10 10, 
+Contact:Phone-Write 21 21, 
+Contact:Phone-Write 12 12, 
+
+
+
+
+
+
+
+
+
+Conflict:Attack 13 13, 
+Life:Die 4 4, 
+Life:Die 4 4, 
+Conflict:Attack 20 20, 
+
+
+Conflict:Attack 8 8, 
+
+
+Conflict:Attack 6 6, 
+Contact:Meet 1 1, 
+
+
+
+
+Personnel:End-Position 25 25, 
+
+
+Personnel:Elect 11 11, 
+Personnel:End-Position 8 9, 
+
+Personnel:Elect 26 26, 
+
+
+
+
+
+Conflict:Attack 3 3, Life:Die 9 9, 
+Life:Die 7 7, Conflict:Attack 9 9, Conflict:Attack 11 11, 
+
+Conflict:Attack 9 9, 
+Conflict:Attack 6 6, 
+Life:Die 1 1, 
+Life:Die 21 21, Life:Die 11 11, 
+Life:Die 8 8, Conflict:Attack 10 12, 
+
+Conflict:Attack 10 10, 
+
+
+
+Life:Die 1 1, Conflict:Attack 11 11, Conflict:Attack 20 20, 
+
+
+
+
+
+Conflict:Attack 37 37, Life:Die 48 48, 
+
+
+
+
+
+
+
+
+Business:Start-Org 2 2, Business:Start-Org 25 26, 
+
+Conflict:Attack 7 7, Conflict:Attack 10 10, Life:Die 6 6, 
+
+
+
+
+Transaction:Transfer-Money 12 12, Conflict:Attack 24 24, 
+Conflict:Attack 13 13, 
+
+
+
+
+
+Business:End-Org 6 6, Conflict:Attack 25 25, 
+Contact:Meet 10 10, 
+
+Conflict:Attack 13 13, Conflict:Attack 17 17, 
+Contact:Meet 11 11, 
+Conflict:Attack 1 1, Life:Die 14 14, 
+Life:Die 14 14, 
+
+
+Conflict:Attack 6 6, 
+Conflict:Attack 25 25, 
+
+
+
+
+
+
+
+
+Business:Declare-Bankruptcy 26 26, 
+
+
+
+
+
+
+
+Personnel:End-Position 8 8, Personnel:End-Position 22 22, 
+Conflict:Attack 13 13, Personnel:End-Position 2 2, Personnel:End-Position 22 22, 
+
+
+Contact:Phone-Write 2 2, 
+
+
+
+Contact:Phone-Write 5 5, 
+
+
+
+Justice:Charge-Indict 19 19, 
+
+
+
+
+Justice:Charge-Indict 9 9, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Marry 13 13, 
+Life:Marry 17 17, Justice:Appeal 5 5, 
+Life:Marry 13 13, 
+
+
+
+Conflict:Attack 18 18, 
+Life:Die 9 9, 
+Conflict:Attack 15 15, Life:Injure 12 12, 
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 2 2, 
+
+
+
+
+
+
+
+Contact:Meet 8 8, 
+
+
+
+Movement:Transport 6 6, 
+
+
+
+
+
+
+
+
+Movement:Transport 2 2, 
+Movement:Transport 13 13, 
+
+
+Life:Be-Born 4 4, 
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 7 7, 
+
+
+
+Contact:Meet 5 5, 
+
+Life:Be-Born 19 19, 
+
+
+
+
+Movement:Transport 16 16, Movement:Transport 20 20, Contact:Meet 7 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 17 17, 
+Life:Die 6 6, 
+
+
+
+Personnel:End-Position 16 16, 
+Justice:Charge-Indict 5 5, 
+Life:Die 9 9, 
+Justice:Trial-Hearing 6 6, 
+
+
+
+Conflict:Attack 21 21, 
+Conflict:Attack 6 6, Personnel:End-Position 13 13, 
+Personnel:Start-Position 11 11, Conflict:Attack 6 6, 
+
+Conflict:Attack 26 26, Contact:Meet 8 8, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Start-Position 8 8, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business:Start-Org 2 2, 
+
+Personnel:Start-Position 6 6, 
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 91 92, 
+
+Justice:Arrest-Jail 11 13, 
+Justice:Convict 12 13, 
+Justice:Convict 4 5, 
+
+Conflict:Attack 9 9, 
+Life:Die 9 9, 
+
+Life:Die 17 17, Conflict:Attack 36 36, 
+
+
+Movement:Transport 5 5, Movement:Transport 12 12, Contact:Meet 19 19, 
+Movement:Transport 6 6, Contact:Meet 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 4 4, 
+
+Movement:Transport 2 2, 
+
+
+
+
+
+
+
+Contact:Meet 22 22, 
+
+
+
+Contact:Meet 14 14, 
+
+Contact:Meet 8 8, 
+
+Business:End-Org 22 22, 
+
+
+
+Conflict:Attack 20 20, 
+
+
+
+
+
+Life:Die 11 11, 
+Personnel:Start-Position 24 24, 
+
+
+
+Life:Divorce 19 19, 
+
+
+
+
+
+Movement:Transport 14 14, Movement:Transport 9 9, 
+Movement:Transport 17 17, 
+
+
+
+
+Movement:Transport 9 9, 
+Movement:Transport 9 9, 
+
+
+Movement:Transport 14 14, 
+
+Contact:Phone-Write 11 11, 
+
+
+
+
+
+
+Movement:Transport 11 11, 
+Movement:Transport 4 4, 
+
+Movement:Transport 11 11, 
+
+
+Movement:Transport 6 6, 
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 11 11, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 4 4, Contact:Meet 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 23 23, Transaction:Transfer-Ownership 33 33, 
+Conflict:Attack 12 12, 
+
+
+Conflict:Attack 7 7, 
+
+
+
+Movement:Transport 18 18, 
+Transaction:Transfer-Ownership 9 10, 
+
+
+
+Conflict:Attack 11 11, 
+Life:Die 14 16, Movement:Transport 18 18, 
+
+
+Conflict:Attack 3 4, 
+Conflict:Attack 4 4, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 15 15, 
+
+
+Movement:Transport 3 3, 
+Movement:Transport 4 4, 
+
+
+
+
+
+
+Movement:Transport 8 8, 
+
+
+
+
+
+
+
+
+Conflict:Attack 25 25, 
+Conflict:Attack 13 13, 
+
+Movement:Transport 2 2, 
+
+
+
+
+
+
+
+
+
+Life:Die 4 4, 
+
+
+
+
+
+
+
+
+
+
+
+
+Justice:Trial-Hearing 4 4, 
+
+Life:Die 26 26, 
+
+Justice:Trial-Hearing 17 17, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 0 0, 
+
+
+
+
+
+
+
+Conflict:Attack 10 10, 
+
+Life:Be-Born 19 20, 
+
+
+Justice:Appeal 4 4, 
+
+
+Conflict:Attack 14 14, 
+
+
+
+Conflict:Attack 63 63, Movement:Transport 30 30, 
+
+
+
+Conflict:Attack 17 17, 
+Conflict:Attack 10 10, Life:Be-Born 23 24, 
+
+
+
+
+
+
+
+Justice:Sue 32 32, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Money 17 17, 
+Transaction:Transfer-Money 38 38, Transaction:Transfer-Money 48 48, Personnel:End-Position 31 31, Personnel:End-Position 35 35, 
+
+
+
+
+
+Transaction:Transfer-Money 19 19, 
+
+
+
+Life:Die 14 14, 
+Personnel:Elect 4 4, 
+
+
+
+
+
+
+Life:Die 8 8, 
+Life:Die 7 7, 
+Business:End-Org 6 6, 
+Life:Die 3 5, 
+Life:Die 1 1, 
+
+Life:Die 8 8, Personnel:End-Position 0 0, 
+
+Personnel:Nominate 5 5, 
+Personnel:Start-Position 15 15, 
+
+Personnel:End-Position 1 2, Justice:Charge-Indict 6 12, 
+
+Movement:Transport 4 4, 
+
+
+Life:Injure 1 1, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Nominate 18 18, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 50 50, 
+Personnel:Elect 5 5, 
+
+
+
+
+
+Personnel:Elect 25 25, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 12 12, 
+
+
+
+Personnel:Elect 7 7, 
+
+
+Personnel:Elect 7 7, 
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 47 47, 
+
+
+
+Contact:Meet 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 12 12, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Meet 19 19, 
+
+Movement:Transport 28 28, Contact:Meet 33 33, 
+Movement:Transport 12 12, Contact:Meet 6 6, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 8 8, 
+Movement:Transport 4 4, 
+Movement:Transport 13 13, Movement:Transport 22 22, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Start-Position 3 3, 
+
+
+
+Transaction:Transfer-Ownership 9 9, 
+Transaction:Transfer-Ownership 5 5, 
+Transaction:Transfer-Ownership 4 4, 
+
+
+
+Movement:Transport 16 16, 
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Start-Position 2 2, 
+
+Personnel:Start-Position 1 1, 
+
+
+
+
+Personnel:Start-Position 18 18, 
+
+
+
+
+
+
+
+Movement:Transport 27 27, 
+
+Movement:Transport 4 4, 
+
+
+
+Movement:Transport 10 10, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business:Merge-Org 4 4, 
+
+
+Business:Merge-Org 8 8, Business:Declare-Bankruptcy 18 18, 
+Business:Merge-Org 8 8, 
+
+
+
+
+Business:Declare-Bankruptcy 22 22, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Money 15 16, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Start-Position 10 10, 
+
+
+Personnel:Start-Position 26 26, 
+
+
+
+
+
+
+
+
+
+
+Personnel:Start-Position 8 8, Personnel:Start-Position 13 13, 
+
+
+
+
+
+
+Transaction:Transfer-Ownership 1 1, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 9 9, Personnel:Start-Position 22 22, Personnel:End-Position 38 38, 
+Personnel:Start-Position 6 6, 
+Personnel:Start-Position 12 12, 
+Personnel:Start-Position 10 10, 
+
+Personnel:End-Position 9 9, 
+
+Personnel:End-Position 21 21, 
+Personnel:End-Position 8 8, 
+
+
+
+
+Personnel:Start-Position 40 40, Conflict:Attack 3 4, Conflict:Attack 37 38, 
+
+Conflict:Attack 7 8, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 26 27, 
+
+
+
+
+
+
+
+
+
+Conflict:Attack 4 4, 
+
+
+
+
+
+
+
+
+Personnel:Elect 7 7, Personnel:End-Position 36 36, Personnel:Start-Position 20 20, 
+Personnel:Start-Position 6 6, 
+Personnel:Start-Position 12 12, 
+Personnel:Start-Position 10 10, 
+
+
+
+Contact:Phone-Write 7 7, 
+Contact:Phone-Write 6 6, 
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 14 14, 
+
+Personnel:End-Position 14 15, 
+
+
+Personnel:Start-Position 2 2, 
+
+
+
+
+Personnel:End-Position 17 18, 
+
+
+
+Personnel:Start-Position 3 3, 
+Personnel:Start-Position 5 5, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 9 10, 
+
+
+
+
+
+
+
+
+
+Personnel:Nominate 9 9, 
+Personnel:Nominate 5 5, 
+
+
+
+
+
+
+Personnel:Start-Position 8 8, 
+
+
+
+
+Personnel:Elect 7 7, Personnel:Start-Position 20 20, Personnel:End-Position 36 36, 
+Personnel:Start-Position 6 6, 
+Personnel:Start-Position 12 12, 
+Personnel:Start-Position 10 10, 
+
+Personnel:End-Position 21 21, 
+
+
+Personnel:End-Position 19 21, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 19 19, 
+
+
+
+
+
+Personnel:End-Position 16 16, 
+
+Personnel:Start-Position 7 8, 
+
+
+
+
+
+
+
+Personnel:Elect 33 33, 
+
+
+
+
+
+
+
+Personnel:Elect 9 9, Personnel:End-Position 38 38, Personnel:Start-Position 22 22, 
+Personnel:Start-Position 6 6, 
+Personnel:Start-Position 12 12, 
+Personnel:Start-Position 10 10, 
+
+
+Conflict:Attack 13 14, 
+
+Conflict:Attack 20 21, 
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 8 9, 
+
+Conflict:Attack 25 26, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 43 43, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 24 24, 
+
+
+
+
+
+
+
+
+
+
+
+Justice:Convict 7 7, Life:Die 9 9, 
+
+
+Justice:Trial-Hearing 20 20, Justice:Trial-Hearing 6 6, 
+
+
+
+
+
+
+
+
+Justice:Trial-Hearing 9 9, 
+
+
+
+
+
+Justice:Sentence 14 14, 
+
+
+
+
+
+
+
+Life:Marry 56 56, 
+
+
+Life:Divorce 20 20, 
+
+Life:Die 6 6, 
+
+
+
+Justice:Convict 24 25, Justice:Convict 17 17, 
+
+Justice:Acquit 45 45, Justice:Convict 17 17, 
+
+
+
+Justice:Convict 8 8, Life:Die 11 11, 
+
+
+Justice:Trial-Hearing 6 6, Justice:Trial-Hearing 20 20, 
+
+Justice:Trial-Hearing 6 6, 
+
+
+Justice:Trial-Hearing 3 3, 
+
+
+
+Justice:Trial-Hearing 7 7, 
+
+Conflict:Attack 11 11, 
+Life:Injure 8 8, Life:Die 15 15, 
+
+
+Justice:Trial-Hearing 13 13, 
+Justice:Trial-Hearing 25 25, 
+
+Justice:Trial-Hearing 11 11, Justice:Trial-Hearing 17 17, 
+Life:Die 4 4, 
+Justice:Trial-Hearing 14 14, 
+
+Justice:Sentence 2 2, 
+Justice:Convict 15 15, 
+
+
+
+
+Movement:Transport 31 31, Movement:Transport 3 3, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Justice:Trial-Hearing 8 8, 
+Justice:Trial-Hearing 10 10, 
+
+
+Contact:Phone-Write 9 9, 
+
+
+
+
+Contact:Phone-Write 5 5, 
+
+
+
+
+
+
+Justice:Convict 9 9, Life:Die 11 11, Justice:Sentence 23 23, 
+
+
+Justice:Trial-Hearing 6 6, Justice:Trial-Hearing 20 20, 
+Justice:Sentence 3 3, 
+
+
+
+
+
+Justice:Trial-Hearing 6 6, 
+Justice:Trial-Hearing 16 16, Justice:Trial-Hearing 22 22, 
+Life:Die 3 3, 
+
+
+
+
+
+
+Life:Die 11 11, 
+
+
+
+
+
+
+
+Justice:Execute 24 24, 
+Justice:Sentence 19 19, 
+Justice:Execute 19 19, 
+Conflict:Attack 30 30, 
+Justice:Execute 12 12, 
+
+
+
+Life:Die 13 13, 
+
+
+
+
+
+Justice:Trial-Hearing 12 12, 
+
+
+Justice:Trial-Hearing 20 20, 
+Conflict:Attack 6 6, 
+Movement:Transport 14 14, 
+
+
+
+Justice:Trial-Hearing 25 25, 
+
+
+
+Justice:Convict 8 8, Life:Die 11 11, Justice:Sentence 23 23, Justice:Trial-Hearing 3 3, 
+Justice:Convict 12 12, 
+
+Justice:Trial-Hearing 6 6, Justice:Trial-Hearing 20 20, 
+Justice:Sentence 3 3, 
+Justice:Trial-Hearing 11 11, 
+Justice:Sentence 10 10, Justice:Sentence 41 41, 
+
+
+
+
+Life:Die 21 21, 
+Life:Die 5 5, 
+Life:Die 5 5, 
+Life:Die 7 7, Justice:Sentence 18 18, 
+Justice:Sentence 7 7, 
+
+
+
+
+
+
+Life:Die 29 29, Life:Die 33 33, 
+Life:Die 29 29, 
+Life:Die 8 8, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Die 15 15, 
+
+
+Life:Die 10 10, 
+
+
+
+
+
+
+
+
+
+Life:Die 9 9, Justice:Convict 7 7, Justice:Sentence 21 21, 
+Justice:Convict 12 12, 
+
+Justice:Trial-Hearing 6 6, Justice:Trial-Hearing 20 20, 
+
+
+
+
+
+
+
+
+
+
+
+Justice:Trial-Hearing 9 9, Justice:Trial-Hearing 24 24, 
+Justice:Trial-Hearing 4 4, 
+
+
+Life:Die 20 20, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Justice:Sentence 9 9, 
+Justice:Appeal 7 7, Justice:Sentence 13 13, 
+
+Life:Die 37 37, 
+
+
+Life:Die 2 2, Life:Die 13 13, 
+Life:Die 5 5, 
+
+Life:Die 14 14, 
+
+
+
+
+
+Transaction:Transfer-Money 61 61, 
+Transaction:Transfer-Ownership 7 7, Life:Die 25 25, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 59 59, 
+
+
+
+
+
+
+
+
+
+Personnel:Nominate 34 34, 
+
+Personnel:Elect 9 9, 
+
+
+
+
+
+Life:Die 2 2, Life:Die 13 13, 
+Life:Die 5 5, 
+
+Life:Die 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Ownership 13 13, 
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Meet 3 3, 
+
+
+
+
+Life:Die 2 2, Life:Die 13 13, 
+Life:Die 5 5, 
+
+Life:Die 14 14, 
+
+
+
+
+
+
+
+
+
+Conflict:Attack 50 50, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Start-Position 12 12, 
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 21 21, Movement:Transport 1 1, Life:Injure 90 90, 
+
+Life:Die 2 2, Life:Die 13 13, 
+Life:Die 5 5, 
+
+Life:Die 14 14, 
+
+
+
+
+
+
+Movement:Transport 19 19, 
+
+
+Life:Die 7 7, 
+
+Conflict:Attack 17 17, 
+
+Movement:Transport 18 18, 
+
+Life:Die 6 6, 
+
+
+
+
+
+
+
+
+Movement:Transport 7 7, 
+
+
+
+
+
+
+
+
+Conflict:Attack 21 21, 
+Personnel:End-Position 35 35, 
+Conflict:Attack 149 149, 
+
+Conflict:Attack 79 79, 
+Conflict:Attack 24 24, 
+Life:Die 2 2, Life:Die 13 13, 
+Life:Die 5 5, 
+
+Life:Die 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 51 51, 
+
+
+Conflict:Attack 36 36, 
+
+Conflict:Attack 10 10, 
+Contact:Meet 57 57, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Meet 30 31, 
+
+
+
+
+
+
+
+
+Justice:Convict 11 11, 
+Justice:Trial-Hearing 11 11, 
+Justice:Trial-Hearing 5 5, 
+Justice:Trial-Hearing 3 3, 
+Justice:Trial-Hearing 6 6, 
+
+
+
+
+Justice:Trial-Hearing 14 14, 
+
+
+
+
+
+
+Justice:Trial-Hearing 27 27, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Marry 12 12, 
+Life:Marry 2 2, 
+
+
+Conflict:Attack 72 72, 
+
+
+
+
+Justice:Convict 10 10, Life:Die 13 13, Justice:Trial-Hearing 3 3, Life:Be-Born 19 19, 
+Justice:Trial-Hearing 11 11, 
+Justice:Trial-Hearing 5 5, 
+Justice:Trial-Hearing 3 3, 
+Justice:Trial-Hearing 6 6, 
+
+
+Justice:Trial-Hearing 11 11, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Be-Born 24 24, 
+
+
+
+
+
+
+
+
+
+
+
+Justice:Sentence 12 12, 
+
+
+
+
+Life:Die 31 31, Justice:Charge-Indict 45 45, 
+Justice:Convict 20 20, 
+Justice:Convict 20 20, Justice:Convict 29 29, 
+Justice:Convict 4 4, 
+Life:Die 8 8, 
+
+Justice:Charge-Indict 5 5, Justice:Sentence 14 14, 
+
+
+
+
+
+Life:Marry 9 9, 
+Personnel:Elect 11 11, Personnel:Elect 2 2, 
+
+
+
+
+
+Personnel:Elect 6 6, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Be-Born 29 29, 
+
+
+Life:Be-Born 31 31, 
+
+
+Life:Be-Born 42 42, Movement:Transport 47 47, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 11 11, 
+
+
+
+
+
+
+
+
+Personnel:Elect 6 6, 
+
+
+Personnel:Elect 21 21, 
+
+Personnel:Elect 5 5, 
+
+
+
+
+
+
+Personnel:Elect 48 48, 
+Personnel:Elect 31 31, 
+Personnel:End-Position 11 11, 
+
+
+
+Conflict:Attack 20 20, Conflict:Attack 18 18, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 9 9, 
+
+
+
+
+
+
+
+Personnel:Elect 12 12, 
+Personnel:Elect 21 21, 
+Personnel:Elect 5 5, 
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 5 6, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 9 9, Justice:Sue 46 46, 
+
+
+
+
+
+
+Personnel:Elect 9 9, 
+
+
+
+
+
+
+
+Personnel:Elect 4 4, 
+
+
+
+
+
+
+
+Conflict:Attack 28 28, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Meet 3 3, 
+
+
+Conflict:Attack 22 22, 
+Conflict:Attack 30 30, 
+
+
+
+
+
+
+
+Life:Die 31 31, Life:Die 14 14, Life:Die 2 2, 
+Conflict:Attack 17 17, 
+Life:Die 13 13, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 18 18, 
+
+
+
+Life:Die 29 29, 
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 10 10, 
+Conflict:Attack 3 3, 
+Life:Die 11 11, Conflict:Attack 44 44, 
+
+
+
+Life:Die 10 10, Conflict:Attack 8 8, 
+
+
+
+
+
+Life:Die 2 2, Life:Die 14 14, 
+Conflict:Attack 17 17, 
+Life:Die 13 13, 
+
+
+
+
+
+
+
+
+
+Conflict:Attack 9 9, 
+
+
+
+
+
+
+Life:Die 12 12, 
+
+
+
+
+Conflict:Attack 14 14, 
+
+Life:Die 19 19, 
+
+
+
+
+
+
+
+
+Movement:Transport 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Meet 26 27, 
+
+
+
+
+
+
+Movement:Transport 27 27, 
+
+Life:Die 2 2, Life:Die 14 14, 
+Life:Die 17 17, 
+Life:Die 13 13, 
+
+
+
+
+
+
+Life:Die 27 27, 
+
+
+
+
+Life:Die 50 50, 
+
+
+
+
+
+
+Conflict:Attack 14 16, 
+
+Movement:Transport 32 32, 
+
+
+
+Conflict:Attack 12 12, 
+
+Conflict:Attack 12 12, 
+Life:Die 9 9, Life:Die 17 17, 
+
+
+
+
+
+Conflict:Attack 20 20, 
+
+Conflict:Attack 41 41, 
+
+
+
+Personnel:End-Position 80 80, 
+Life:Die 13 13, 
+
+
+Conflict:Attack 38 38, 
+
+
+
+Life:Die 14 14, Life:Die 2 2, Life:Die 31 31, 
+
+Life:Die 13 13, 
+
+
+
+
+
+
+Life:Die 21 21, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Start-Position 20 20, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 5 5, Life:Die 4 4, Conflict:Attack 43 44, Conflict:Attack 33 34, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Die 9 9, 
+
+Movement:Transport 17 17, 
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 2 2, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Divorce 4 4, 
+
+
+
+Movement:Transport 6 6, 
+
+Movement:Transport 2 2, Movement:Transport 6 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 2 2, 
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 22 23, Personnel:End-Position 10 11, 
+Personnel:End-Position 1 1, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 7 7, 
+
+
+Movement:Transport 5 5, 
+
+
+
+
+Movement:Transport 7 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 15 15, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Meet 4 4, Movement:Transport 2 2, 
+Movement:Transport 3 3, Contact:Meet 8 8, 
+
+Movement:Transport 3 3, 
+
+
+
+
+
+
+
+Movement:Transport 2 2, 
+
+
+
+Movement:Transport 9 9, 
+Movement:Transport 2 2, Movement:Transport 14 14, 
+
+Movement:Transport 9 9, 
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 2 2, 
+
+
+
+
+
+Movement:Transport 7 7, Movement:Transport 29 29, 
+
+
+Movement:Transport 9 9, 
+
+
+
+
+Movement:Transport 2 2, 
+
+
+
+Movement:Transport 7 7, 
+
+Movement:Transport 13 14, 
+
+
+
+
+
+
+Movement:Transport 3 3, 
+
+Contact:Phone-Write 5 5, 
+
+Contact:Phone-Write 2 2, 
+
+
+Movement:Transport 0 0, 
+
+
+
+
+
+
+Life:Die 6 6, 
+Life:Die 13 13, 
+
+
+
+
+
+
+
+
+
+Movement:Transport 1 1, 
+
+
+
+
+
+
+
+
+
+
+
+Life:Marry 10 10, 
+
+
+
+
+
+
+
+
+Movement:Transport 17 17, 
+
+
+
+Movement:Transport 6 6, 
+Personnel:Start-Position 14 14, 
+
+
+
+Life:Injure 39 39, 
+
+
+
+Conflict:Attack 10 10, Conflict:Attack 0 0, 
+
+
+
+
+
+
+Movement:Transport 10 10, 
+
+
+
+Conflict:Attack 12 12, 
+
+Conflict:Attack 25 25, Conflict:Attack 28 28, 
+
+Movement:Transport 36 37, 
+
+
+
+
+
+Life:Die 9 9, 
+
+
+
+Conflict:Attack 31 31, 
+Transaction:Transfer-Money 4 4, Transaction:Transfer-Money 49 49, 
+
+
+Conflict:Attack 13 13, Movement:Transport 9 9, 
+
+Conflict:Attack 33 33, Movement:Transport 5 5, 
+
+
+
+Movement:Transport 8 8, Movement:Transport 21 21, 
+
+
+
+
+Conflict:Attack 9 9, 
+
+
+
+
+
+
+Conflict:Attack 7 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 2 2, 
+
+
+
+
+
+
+
+Conflict:Attack 0 0, Conflict:Attack 10 10, 
+Personnel:Elect 9 9, 
+
+
+Personnel:Elect 4 4, 
+
+
+
+
+
+
+
+
+
+Movement:Transport 9 10, 
+Movement:Transport 12 12, 
+
+Movement:Transport 33 34, 
+
+Movement:Transport 8 8, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 9 9, 
+
+Life:Die 10 10, 
+
+
+
+
+Personnel:Elect 9 9, 
+
+Personnel:End-Position 29 29, Personnel:End-Position 46 46, Personnel:End-Position 69 70, 
+
+
+
+
+
+Personnel:Start-Position 8 8, Personnel:End-Position 13 13, 
+
+
+Personnel:End-Position 7 7, Personnel:End-Position 3 3, 
+
+Conflict:Attack 45 45, 
+Conflict:Attack 0 0, Conflict:Attack 10 10, 
+Personnel:Elect 9 9, 
+
+
+Personnel:Elect 4 4, 
+
+Conflict:Attack 21 21, Personnel:Elect 40 40, 
+Contact:Phone-Write 2 2, 
+
+
+Personnel:Elect 5 5, 
+Personnel:Elect 4 4, 
+Life:Die 58 58, 
+
+
+
+
+
+Personnel:Elect 4 4, 
+Personnel:Elect 19 19, 
+
+
+
+Personnel:Elect 5 5, Personnel:Elect 12 12, 
+
+
+
+
+
+
+
+
+Conflict:Attack 12 12, 
+Conflict:Attack 4 4, 
+Conflict:Attack 19 19, 
+
+
+
+Conflict:Attack 13 13, 
+
+
+
+Business:Start-Org 3 4, 
+
+Conflict:Attack 49 49, 
+
+Movement:Transport 50 51, 
+
+Movement:Transport 5 5, 
+Movement:Transport 22 22, 
+Movement:Transport 3 3, 
+
+
+
+
+Movement:Transport 3 3, Conflict:Attack 5 5, 
+Movement:Transport 18 18, 
+Conflict:Attack 4 4, 
+
+
+
+
+Conflict:Attack 15 15, Movement:Transport 2 2, 
+
+Transaction:Transfer-Money 21 21, 
+
+
+Movement:Transport 12 12, 
+Movement:Transport 8 8, 
+Movement:Transport 8 8, 
+
+
+Conflict:Attack 33 33, 
+
+Conflict:Attack 2 2, 
+
+
+Conflict:Attack 1 1, 
+
+
+
+Conflict:Attack 29 29, 
+Conflict:Attack 19 19, 
+
+
+
+
+Conflict:Attack 40 40, 
+Movement:Transport 12 12, 
+Movement:Transport 1 1, 
+Conflict:Attack 1 1, 
+
+
+
+Conflict:Attack 8 8, 
+Conflict:Attack 12 12, 
+Conflict:Attack 4 4, 
+Conflict:Attack 1 1, 
+Conflict:Attack 31 31, Movement:Transport 7 7, 
+Movement:Transport 20 20, 
+
+Movement:Transport 1 1, 
+
+Movement:Transport 25 25, 
+
+Conflict:Attack 27 27, 
+Conflict:Attack 17 17, 
+Movement:Transport 11 11, 
+Movement:Transport 12 12, 
+
+
+Conflict:Attack 2 2, Movement:Transport 13 13, 
+
+
+
+Movement:Transport 9 9, 
+
+Movement:Transport 5 5, Movement:Transport 27 27, 
+
+Justice:Sentence 19 19, Conflict:Attack 10 10, Justice:Appeal 7 7, Justice:Convict 11 11, 
+Conflict:Attack 7 7, Justice:Convict 2 2, 
+Justice:Sentence 2 2, Justice:Appeal 10 10, 
+Justice:Trial-Hearing 1 1, 
+Justice:Sentence 23 23, 
+
+Justice:Appeal 20 20, Personnel:End-Position 13 13, 
+Justice:Sentence 12 12, Personnel:Start-Position 6 6, 
+Justice:Appeal 14 14, 
+Personnel:Start-Position 1 1, 
+Justice:Convict 3 3, 
+Justice:Sentence 10 10, Conflict:Attack 12 12, 
+Personnel:End-Position 20 20, 
+Personnel:Start-Position 1 1, 
+
+
+Movement:Transport 2 2, Conflict:Attack 13 13, 
+
+
+
+Life:Die 23 23, Conflict:Attack 24 24, Conflict:Attack 3 3, 
+
+Conflict:Attack 5 5, Conflict:Attack 23 23, 
+Business:Start-Org 40 42, Business:Start-Org 44 45, 
+Business:Start-Org 3 3, Contact:Meet 1 1, 
+Conflict:Attack 6 6, 
+
+
+Conflict:Attack 2 2, Conflict:Attack 8 8, 
+Conflict:Attack 25 25, 
+Movement:Transport 13 13, Transaction:Transfer-Ownership 0 0, 
+Conflict:Attack 27 27, 
+Conflict:Attack 4 4, 
+
+
+Life:Injure 6 6, Conflict:Attack 12 12, Life:Die 3 3, 
+Life:Die 12 12, 
+Conflict:Attack 15 16, 
+
+Life:Die 19 19, Life:Die 6 6, Movement:Transport 12 12, 
+Life:Die 16 16, 
+
+
+Conflict:Attack 1 1, 
+Conflict:Attack 11 11, 
+
+Conflict:Attack 3 3, Conflict:Attack 18 18, 
+
+
+
+Transaction:Transfer-Ownership 11 11, 
+
+Movement:Transport 9 9, Conflict:Attack 19 19, 
+
+Conflict:Attack 9 9, 
+Justice:Arrest-Jail 10 10, 
+Movement:Transport 32 32, Movement:Transport 40 40, 
+Movement:Transport 2 3, 
+Conflict:Attack 6 6, Conflict:Attack 15 15, 
+Life:Die 14 14, Conflict:Attack 9 9, 
+Conflict:Attack 6 6, Life:Die 3 3, 
+Life:Die 6 6, Movement:Transport 22 22, 
+
+Conflict:Attack 9 9, 
+
+
+Transaction:Transfer-Money 9 9, 
+Transaction:Transfer-Money 6 6, 
+
+Transaction:Transfer-Money 14 14, 
+
+
+
+
+
+
+
+
+Contact:Meet 9 9, 
+Contact:Meet 6 6, 
+Contact:Meet 6 6, 
+
+Conflict:Attack 20 20, 
+Contact:Meet 9 9, 
+
+
+Conflict:Attack 10 10, 
+
+
+
+
+
+
+Conflict:Attack 13 13, 
+
+
+
+
+Contact:Meet 9 9, 
+Contact:Meet 8 8, 
+Business:Start-Org 13 14, 
+
+
+Conflict:Attack 30 30, Conflict:Attack 32 32, Movement:Transport 15 15, Conflict:Attack 2 2, 
+
+Movement:Transport 4 4, 
+Movement:Transport 3 3, Movement:Transport 11 11, 
+
+Conflict:Attack 13 13, 
+Conflict:Attack 6 6, Conflict:Attack 20 20, 
+Conflict:Attack 10 10, 
+
+Business:End-Org 17 18, 
+
+Conflict:Attack 2 2, 
+Conflict:Attack 2 2, Conflict:Attack 10 10, Life:Die 25 25, 
+Transaction:Transfer-Ownership 3 3, 
+Movement:Transport 18 18, 
+Movement:Transport 1 1, 
+Movement:Transport 14 14, 
+Movement:Transport 20 20, Transaction:Transfer-Ownership 28 28, 
+
+Conflict:Attack 24 24, Conflict:Attack 37 37, 
+Conflict:Attack 1 1, 
+Life:Injure 0 0, Conflict:Attack 19 19, 
+Conflict:Attack 12 12, Life:Die 6 6, 
+Conflict:Attack 10 10, Conflict:Attack 18 18, 
+
+Transaction:Transfer-Ownership 5 5, 
+
+
+Conflict:Attack 0 0, 
+Movement:Transport 7 7, 
+Movement:Transport 3 3, Movement:Transport 30 30, 
+Business:End-Org 18 18, Conflict:Attack 20 20, Life:Die 25 25, 
+
+
+
+Movement:Transport 4 4, 
+Movement:Transport 9 9, 
+Conflict:Attack 25 25, Conflict:Attack 28 28, Conflict:Attack 6 6, 
+Life:Die 5 5, Life:Injure 10 10, 
+Life:Die 7 7, Life:Die 11 11, 
+Conflict:Attack 12 12, 
+Life:Injure 19 19, Conflict:Attack 14 14, 
+
+
+Personnel:Start-Position 28 28, 
+Contact:Meet 42 42, Personnel:Start-Position 22 22, 
+Personnel:Start-Position 3 3, 
+
+
+
+
+
+
+
+Business:Start-Org 12 12, Business:Start-Org 2 2, 
+
+Transaction:Transfer-Ownership 19 19, Conflict:Attack 24 24, Movement:Transport 8 8, 
+Conflict:Attack 9 9, Life:Die 11 11, 
+Life:Die 13 13, Conflict:Attack 17 17, 
+Conflict:Attack 1 1, Life:Die 7 7, 
+Conflict:Attack 2 2, Conflict:Attack 6 6, 
+Transaction:Transfer-Ownership 1 1, Transaction:Transfer-Ownership 6 6, 
+Transaction:Transfer-Ownership 4 4, 
+Movement:Transport 3 3, 
+
+Movement:Transport 14 14, Conflict:Attack 12 12, 
+Movement:Transport 10 10, 
+Life:Injure 23 23, Life:Injure 20 20, Life:Injure 17 17, Conflict:Attack 27 27, 
+
+Life:Injure 4 4, 
+Conflict:Attack 19 19, Life:Die 14 14, 
+
+Life:Die 10 10, Conflict:Attack 15 15, 
+Conflict:Attack 9 9, 
+Conflict:Attack 16 16, 
+Conflict:Attack 21 21, Conflict:Attack 5 5, 
+
+Conflict:Attack 3 3, 
+Conflict:Attack 13 13, Life:Die 10 10, 
+Life:Die 12 12, 
+Contact:Meet 22 22, 
+
+
+
+
+
+
+Conflict:Attack 17 17, 
+
+
+
+Conflict:Attack 8 9, Conflict:Attack 34 34, 
+
+
+Conflict:Attack 8 9, 
+
+Business:Start-Org 4 4, 
+
+Contact:Meet 23 23, Conflict:Attack 21 21, Movement:Transport 43 43, 
+
+
+
+Contact:Meet 8 8, 
+
+
+Contact:Meet 1 1, 
+Contact:Meet 38 38, Contact:Meet 46 46, 
+Contact:Meet 2 2, 
+
+
+Contact:Meet 6 6, Contact:Meet 13 13, 
+Contact:Meet 3 3, 
+Conflict:Attack 20 20, 
+
+
+Personnel:Start-Position 14 14, 
+
+
+Conflict:Attack 29 29, 
+Justice:Trial-Hearing 37 37, Conflict:Attack 13 13, Life:Die 15 15, Movement:Transport 51 51, 
+
+
+
+
+Justice:Sue 24 24, 
+Justice:Trial-Hearing 13 13, 
+Conflict:Attack 6 6, 
+Justice:Sue 1 1, Transaction:Transfer-Money 5 6, Justice:Convict 10 10, 
+Justice:Execute 2 2, Justice:Sentence 9 9, 
+
+Justice:Charge-Indict 24 24, 
+Justice:Appeal 29 29, 
+Justice:Appeal 37 37, Justice:Trial-Hearing 29 29, 
+Justice:Charge-Indict 10 10, 
+
+
+Justice:Charge-Indict 1 1, 
+
+Personnel:Elect 6 6, 
+Personnel:Elect 1 2, 
+
+Personnel:Elect 17 17, Personnel:End-Position 4 4, 
+Conflict:Attack 19 19, 
+Transaction:Transfer-Ownership 11 11, 
+
+Movement:Transport 7 7, 
+
+
+
+
+
+Conflict:Attack 11 11, 
+Contact:Meet 10 10, 
+Transaction:Transfer-Ownership 25 25, 
+
+Conflict:Attack 4 4, Life:Die 7 7, 
+Conflict:Attack 9 9, 
+Conflict:Attack 8 8, 
+
+Personnel:Start-Position 27 27, 
+Transaction:Transfer-Ownership 17 17, 
+Life:Die 13 13, 
+Conflict:Attack 14 14, 
+Conflict:Attack 4 4, 
+Conflict:Attack 27 27, 
+
+
+
+
+
+Transaction:Transfer-Ownership 3 3, 
+Transaction:Transfer-Ownership 9 9, Conflict:Attack 30 30, 
+
+
+Transaction:Transfer-Ownership 6 6, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Meet 4 4, Contact:Meet 34 34, Business:Start-Org 12 12, 
+Business:Start-Org 23 23, Contact:Meet 0 0, 
+Contact:Meet 7 7, Conflict:Demonstrate 10 10, 
+
+Business:End-Org 4 4, 
+Personnel:Start-Position 9 9, 
+
+
+
+
+
+
+Personnel:Start-Position 11 11, 
+Conflict:Demonstrate 19 19, 
+
+
+Contact:Meet 11 11, 
+Contact:Meet 1 1, Contact:Meet 12 12, 
+Personnel:Elect 6 6, 
+
+
+Personnel:Elect 25 25, 
+
+
+
+Personnel:End-Position 12 12, Contact:Meet 2 2, 
+Business:Start-Org 17 17, 
+
+
+Conflict:Attack 18 18, 
+
+
+
+
+
+Personnel:Start-Position 10 10, 
+Conflict:Attack 20 20, Movement:Transport 10 10, Contact:Meet 35 35, 
+Movement:Transport 5 5, 
+Contact:Meet 9 9, 
+Contact:Meet 3 3, Conflict:Demonstrate 1 1, 
+Conflict:Demonstrate 2 2, 
+Contact:Meet 6 6, 
+
+
+
+
+
+
+Justice:Appeal 12 12, Justice:Release-Parole 28 28, Justice:Release-Parole 30 30, Justice:Convict 7 7, 
+Justice:Appeal 8 8, 
+Justice:Convict 7 7, 
+Justice:Sentence 2 2, Contact:Meet 15 15, 
+
+Justice:Release-Parole 9 9, Justice:Sentence 3 3, Justice:Sentence 24 24, 
+
+Justice:Release-Parole 11 11, Justice:Appeal 4 4, 
+Justice:Appeal 15 15, Justice:Trial-Hearing 12 12, 
+Justice:Appeal 6 6, 
+
+Justice:Arrest-Jail 2 2, 
+Conflict:Demonstrate 9 9, 
+
+
+Conflict:Attack 2 2, Movement:Transport 10 10, 
+
+
+
+
+
+
+Conflict:Attack 17 17, 
+
+Personnel:Start-Position 15 15, 
+Personnel:Start-Position 1 1, 
+Life:Die 23 23, Personnel:Start-Position 8 8, 
+
+
+
+
+
+
+
+Conflict:Demonstrate 23 23, 
+Conflict:Demonstrate 7 7, Justice:Arrest-Jail 20 20, 
+
+
+Movement:Transport 16 16, 
+
+
+Business:End-Org 9 9, 
+
+
+Life:Die 11 11, Conflict:Attack 15 15, 
+Conflict:Attack 19 19, 
+Conflict:Attack 1 1, 
+
+
+
+Contact:Meet 12 12, 
+Contact:Meet 6 6, 
+
+
+
+
+
+
+Justice:Appeal 9 9, Justice:Convict 21 21, Justice:Sentence 27 27, 
+Justice:Convict 13 13, 
+
+Justice:Appeal 4 4, 
+Justice:Appeal 25 25, 
+
+
+
+Justice:Appeal 16 16, 
+Justice:Sentence 6 6, Justice:Convict 10 10, 
+Justice:Sentence 9 9, 
+Personnel:End-Position 4 4, 
+Conflict:Demonstrate 3 3, Justice:Arrest-Jail 9 9, Justice:Charge-Indict 11 11, Justice:Convict 13 13, 
+
+
+
+
+
+
+
+Justice:Appeal 6 6, Justice:Sentence 28 28, Justice:Convict 18 18, 
+Justice:Appeal 7 7, Justice:Sentence 19 19, 
+
+Life:Be-Born 5 5, Life:Be-Born 30 30, 
+Life:Be-Born 3 3, 
+
+
+Movement:Transport 4 4, 
+Life:Be-Born 7 7, 
+Movement:Transport 4 4, 
+
+Life:Be-Born 14 14, 
+
+Movement:Transport 20 20, 
+
+Life:Be-Born 1 1, Life:Die 6 6, 
+
+
+
+
+Conflict:Attack 12 12, 
+Contact:Meet 19 19, Conflict:Attack 42 42, 
+
+Conflict:Attack 9 9, 
+
+Conflict:Attack 13 13, 
+Contact:Meet 7 7, 
+
+
+
+Contact:Meet 6 6, 
+
+
+Conflict:Attack 21 21, 
+Conflict:Attack 21 21, 
+
+
+Movement:Transport 20 20, Conflict:Attack 16 16, 
+
+
+
+
+
+
+
+
+
+Movement:Transport 2 3, 
+Conflict:Attack 20 20, Movement:Transport 15 15, 
+
+
+
+
+
+
+
+Contact:Meet 6 6, 
+
+
+
+Contact:Meet 1 1, Contact:Meet 11 11, Movement:Transport 19 19, 
+
+Conflict:Attack 15 15, 
+Conflict:Attack 7 7, Contact:Meet 8 8, 
+
+
+
+Movement:Transport 21 21, 
+
+Movement:Transport 5 5, 
+Movement:Transport 5 5, Movement:Transport 13 13, 
+Life:Die 4 4, 
+Life:Die 7 7, 
+
+
+
+Contact:Meet 0 0, 
+Contact:Meet 23 23, Conflict:Attack 12 12, 
+Contact:Meet 6 6, 
+Contact:Meet 21 21, Contact:Meet 36 36, 
+Contact:Meet 24 24, 
+Contact:Meet 7 7, 
+
+Contact:Meet 8 8, 
+
+Contact:Meet 10 10, 
+
+
+
+Contact:Meet 25 25, 
+Contact:Meet 14 14, 
+Movement:Transport 11 11, Contact:Meet 0 0, Contact:Meet 18 18, 
+Contact:Meet 1 1, 
+
+
+Movement:Transport 11 11, 
+Conflict:Attack 17 17, Conflict:Attack 24 24, 
+
+Conflict:Attack 12 12, 
+
+Conflict:Attack 3 3, 
+Contact:Meet 22 22, 
+Contact:Meet 10 10, 
+Contact:Meet 25 25, 
+
+Transaction:Transfer-Money 19 19, 
+Conflict:Attack 4 4, Conflict:Attack 15 15, 
+Conflict:Attack 13 13, 
+Transaction:Transfer-Ownership 18 18, 
+Contact:Meet 9 9, 
+
+Contact:Meet 20 20, 
+
+
+Life:Marry 3 3, 
+
+Life:Marry 10 10, 
+Movement:Transport 16 16, Life:Divorce 26 26, Life:Marry 34 34, 
+Conflict:Attack 35 35, 
+
+
+
+
+Life:Divorce 8 8, 
+
+Life:Divorce 1 1, Transaction:Transfer-Money 7 7, 
+
+Life:Marry 31 31, 
+Life:Marry 3 3, 
+Life:Marry 20 20, 
+Life:Divorce 1 1, 
+
+Life:Marry 4 4, Life:Marry 23 23, 
+Life:Marry 4 4, 
+
+
+Life:Die 10 10, 
+
+
+Life:Die 25 25, 
+Life:Die 11 11, 
+Movement:Transport 5 5, 
+
+
+
+
+Life:Die 18 18, 
+
+Life:Die 13 13, 
+
+
+
+
+Life:Die 21 21, 
+Life:Die 7 7, 
+
+
+
+Life:Die 3 3, 
+
+
+
+
+
+
+
+
+
+Conflict:Attack 2 2, 
+
+
+
+
+Business:Start-Org 15 15, 
+Movement:Transport 13 13, 
+
+
+Conflict:Attack 17 17, 
+
+
+
+
+Contact:Meet 21 21, 
+Contact:Phone-Write 6 6, Movement:Transport 23 23, 
+
+
+
+Movement:Transport 5 5, 
+
+
+Contact:Meet 5 5, 
+
+
+
+
+
+
+Conflict:Attack 26 26, 
+
+
+Contact:Meet 11 11, 
+
+
+
+
+Transaction:Transfer-Money 9 9, 
+Contact:Meet 2 2, 
+Conflict:Attack 21 21, Conflict:Attack 30 30, Conflict:Attack 10 10, 
+
+
+Movement:Transport 6 6, 
+
+Justice:Arrest-Jail 2 2, 
+
+Movement:Transport 14 14, 
+Movement:Transport 14 14, Movement:Transport 27 27, Movement:Transport 8 8, 
+
+Life:Die 9 9, 
+
+Justice:Convict 13 13, 
+Justice:Fine 13 13, 
+Justice:Fine 4 4, 
+Conflict:Attack 38 38, Justice:Sentence 1 1, 
+Justice:Fine 7 7, Justice:Appeal 12 12, 
+Justice:Sentence 8 8, 
+
+Justice:Convict 2 2, 
+Justice:Charge-Indict 1 1, 
+
+Justice:Arrest-Jail 6 6, 
+Justice:Release-Parole 2 2, Justice:Charge-Indict 6 6, 
+
+Justice:Fine 31 31, Justice:Convict 49 49, Movement:Transport 10 10, 
+
+Justice:Convict 9 9, Justice:Trial-Hearing 4 4, Movement:Transport 27 27, 
+
+Conflict:Attack 6 6, 
+
+Life:Injure 3 3, 
+
+
+
+Contact:Meet 19 19, 
+
+
+Transaction:Transfer-Ownership 21 21, 
+Movement:Transport 9 10, 
+Conflict:Attack 9 9, 
+
+
+
+Conflict:Attack 12 12, Conflict:Attack 47 47, Conflict:Attack 4 4, 
+
+
+
+
+Contact:Meet 2 2, 
+Transaction:Transfer-Money 17 17, 
+
+
+Life:Die 1 1, Conflict:Attack 3 3, Life:Die 18 18, Life:Injure 24 24, Conflict:Attack 30 30, 
+Business:Start-Org 34 35, Conflict:Attack 3 3, 
+Conflict:Attack 10 10, Conflict:Attack 28 28, 
+Conflict:Attack 8 8, 
+Conflict:Attack 2 2, 
+Conflict:Attack 16 16, 
+Conflict:Attack 1 1, Life:Die 2 2, 
+Life:Injure 3 3, 
+Conflict:Attack 13 13, Life:Injure 33 33, 
+Conflict:Attack 5 5, Contact:Meet 14 14, 
+Conflict:Attack 9 9, Conflict:Attack 15 15, 
+Conflict:Attack 9 9, Conflict:Attack 28 28, Conflict:Attack 30 30, 
+Contact:Meet 11 11, 
+
+
+
+Conflict:Attack 14 14, 
+Life:Die 28 28, Life:Die 30 30, 
+Contact:Meet 11 11, 
+Contact:Meet 7 7, Contact:Meet 16 16, 
+
+
+
+Conflict:Attack 25 25, 
+
+
+Movement:Transport 10 10, 
+Conflict:Attack 11 11, Contact:Meet 22 22, Contact:Meet 28 28, Conflict:Attack 42 42, 
+
+Movement:Transport 21 21, 
+
+Contact:Meet 4 4, Contact:Meet 19 19, Conflict:Attack 24 24, 
+
+Conflict:Attack 4 4, Conflict:Attack 12 12, Life:Die 26 26, 
+Conflict:Attack 7 7, Conflict:Attack 25 25, Life:Die 33 33, 
+
+
+
+Conflict:Attack 5 5, Conflict:Attack 19 19, 
+
+
+
+Life:Die 38 38, Conflict:Attack 41 41, 
+Conflict:Attack 9 9, Life:Injure 6 6, 
+Conflict:Attack 9 10, 
+Life:Injure 7 7, 
+
+
+Personnel:Elect 18 18, Justice:Convict 21 21, 
+Personnel:Elect 18 18, 
+Personnel:Elect 25 25, Justice:Convict 9 9, 
+Justice:Convict 2 2, 
+Justice:Sentence 2 2, 
+Justice:Pardon 13 13, 
+Justice:Convict 13 13, Justice:Sentence 22 22, 
+
+
+Personnel:Elect 7 7, Personnel:Elect 1 1, 
+
+Conflict:Attack 1 1, Life:Die 13 13, Life:Injure 17 17, 
+Conflict:Attack 7 7, 
+Conflict:Attack 1 1, 
+
+Life:Die 10 10, Life:Die 15 15, Conflict:Attack 22 22, 
+Conflict:Attack 22 22, Movement:Transport 5 5, 
+
+Life:Injure 9 9, 
+Conflict:Attack 16 16, 
+Conflict:Attack 1 1, Conflict:Attack 8 8, Life:Injure 21 21, 
+Conflict:Attack 16 16, 
+
+Business:End-Org 3 3, 
+Movement:Transport 5 5, 
+
+
+Movement:Transport 1 1, Conflict:Attack 4 4, 
+
+Justice:Arrest-Jail 14 14, Conflict:Attack 27 27, Life:Die 26 26, 
+Life:Injure 2 2, Conflict:Attack 1 1, Life:Injure 17 17, 
+Conflict:Attack 26 26, 
+
+Conflict:Attack 25 25, Conflict:Attack 2 2, Life:Die 4 4, Life:Injure 15 15, Contact:Meet 40 40, 
+Conflict:Attack 12 12, Conflict:Attack 1 1, 
+
+Contact:Meet 1 1, 
+Contact:Meet 14 14, 
+Contact:Meet 4 4, 
+Conflict:Attack 2 2, Life:Die 4 4, Life:Injure 14 14, Conflict:Attack 24 24, 
+Conflict:Attack 4 4, Conflict:Attack 7 7, Conflict:Attack 15 15, 
+Conflict:Attack 22 22, Conflict:Attack 40 40, Conflict:Attack 16 16, Conflict:Attack 19 19, Life:Injure 36 36, Life:Injure 53 53, 
+Life:Injure 21 21, Conflict:Attack 8 8, 
+Conflict:Attack 19 19, Conflict:Demonstrate 12 12, 
+Life:Injure 7 7, 
+Life:Injure 13 13, 
+
+Life:Injure 12 12, 
+Life:Die 2 2, Movement:Transport 11 11, 
+
+Life:Die 20 20, Conflict:Attack 25 25, 
+Conflict:Attack 5 5, 
+Conflict:Attack 6 6, Life:Injure 3 3, 
+Conflict:Attack 16 16, Conflict:Attack 32 32, 
+Movement:Transport 20 20, 
+Conflict:Attack 3 3, 
+Conflict:Attack 1 1, 
+Movement:Transport 14 14, 
+
+
+
+Movement:Transport 17 17, 
+
+Conflict:Attack 26 26, 
+Conflict:Attack 14 14, Movement:Transport 19 19, 
+
+
+
+
+
+Conflict:Attack 11 11, 
+
+
+
+Movement:Transport 27 27, Movement:Transport 24 24, 
+Movement:Transport 28 28, 
+
+Contact:Meet 9 9, 
+Contact:Meet 12 12, 
+Contact:Meet 23 23, 
+
+
+
+Contact:Meet 10 10, Movement:Transport 2 2, 
+
+Movement:Transport 14 14, Movement:Transport 1 1, 
+Personnel:End-Position 24 24, 
+
+
+Conflict:Attack 9 9, 
+
+
+
+
+
+
+
+
+
+
+
+Contact:Meet 3 3, Movement:Transport 12 12, 
+
+
+Contact:Meet 1 1, 
+
+
+Conflict:Attack 22 22, 
+
+
+Justice:Trial-Hearing 14 14, Life:Die 29 29, 
+Justice:Acquit 3 3, Justice:Charge-Indict 9 9, 
+Life:Die 16 16, Justice:Charge-Indict 2 2, 
+Justice:Acquit 34 34, Justice:Trial-Hearing 30 30, 
+Justice:Appeal 3 3, Justice:Trial-Hearing 20 20, 
+
+
+
+Justice:Trial-Hearing 2 2, Life:Die 12 12, 
+Conflict:Attack 1 1, 
+
+Justice:Charge-Indict 4 4, 
+
+Justice:Convict 2 2, Justice:Appeal 24 24, Justice:Trial-Hearing 12 12, 
+Justice:Convict 21 21, 
+Justice:Trial-Hearing 1 1, 
+Justice:Convict 19 19, 
+Justice:Sentence 2 2, Justice:Appeal 18 18, 
+Justice:Convict 15 15, Transaction:Transfer-Money 17 17, Justice:Release-Parole 35 35, 
+Justice:Sentence 2 2, 
+Justice:Convict 2 2, Justice:Sentence 23 23, 
+Justice:Sentence 5 5, Justice:Appeal 23 23, 
+Justice:Trial-Hearing 6 6, 
+Justice:Convict 4 4, 
+Justice:Acquit 3 3, 
+Justice:Appeal 10 10, 
+
+Movement:Transport 17 17, 
+Movement:Transport 4 5, 
+Movement:Transport 3 3, 
+Movement:Transport 19 19, Movement:Transport 9 9, 
+
+
+
+
+
+Movement:Transport 3 3, 
+
+
+
+
+
+Movement:Transport 11 11, 
+Life:Die 19 19, 
+
+
+
+
+Justice:Trial-Hearing 7 7, Movement:Transport 9 9, 
+Movement:Transport 2 2, 
+Movement:Transport 10 10, 
+
+
+Justice:Charge-Indict 13 13, Justice:Trial-Hearing 10 10, 
+Justice:Trial-Hearing 3 3, Justice:Charge-Indict 8 8, Movement:Transport 10 10, 
+Justice:Arrest-Jail 13 13, Justice:Sentence 16 16, Life:Die 33 33, 
+Justice:Trial-Hearing 3 3, 
+
+Conflict:Attack 46 46, Conflict:Attack 3 4, 
+
+Conflict:Attack 45 45, Movement:Transport 21 21, Conflict:Attack 60 60, 
+Conflict:Attack 13 13, 
+Movement:Transport 6 6, 
+Conflict:Attack 6 6, 
+Movement:Transport 4 4, 
+Movement:Transport 11 11, 
+Movement:Transport 25 25, 
+
+
+Conflict:Attack 8 8, 
+
+
+Movement:Transport 4 4, Conflict:Attack 18 18, 
+Conflict:Attack 21 21, Conflict:Attack 26 26, Conflict:Attack 52 52, 
+Conflict:Attack 22 22, Conflict:Attack 27 27, Life:Injure 32 32, 
+Life:Injure 16 16, 
+
+Conflict:Attack 17 17, 
+Conflict:Attack 7 7, 
+
+
+
+Conflict:Attack 8 8, 
+Conflict:Attack 15 15, 
+
+
+Conflict:Attack 27 27, 
+
+Life:Die 36 36, Conflict:Attack 28 28, Conflict:Attack 6 6, 
+
+
+Life:Die 6 6, 
+
+
+Personnel:End-Position 21 21, Personnel:Start-Position 28 28, 
+
+Personnel:Start-Position 5 5, 
+Contact:Meet 1 1, 
+
+
+Personnel:Start-Position 1 2, 
+
+Personnel:Start-Position 2 3, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 18 18, 
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 7 7, 
+
+
+
+
+
+
+Conflict:Attack 5 5, 
+
+
+
+Movement:Transport 28 28, 
+Movement:Transport 26 26, Conflict:Attack 11 11, 
+Movement:Transport 7 7, 
+Movement:Transport 4 4, 
+
+Movement:Transport 10 10, Conflict:Attack 16 16, Conflict:Attack 4 4, 
+
+
+Conflict:Attack 18 18, 
+
+Contact:Meet 25 25, 
+Transaction:Transfer-Ownership 11 11, 
+Transaction:Transfer-Ownership 3 3, 
+Personnel:End-Position 13 13, Conflict:Attack 24 24, 
+
+Life:Die 9 9, Conflict:Attack 15 15, 
+
+Conflict:Attack 6 6, 
+Conflict:Attack 11 11, 
+Conflict:Attack 30 30, 
+Conflict:Attack 34 34, Life:Die 21 21, Life:Die 31 31, 
+Life:Die 12 12, Movement:Transport 30 30, Life:Injure 17 17, Conflict:Attack 25 25, 
+Movement:Transport 3 3, 
+
+
+
+
+
+
+
+
+
+Conflict:Attack 39 39, Contact:Meet 4 4, 
+Movement:Transport 9 9, Conflict:Attack 37 37, 
+Conflict:Attack 3 3, Conflict:Attack 3 3, Contact:Meet 4 4, 
+Contact:Meet 4 4, 
+Conflict:Attack 44 44, Conflict:Attack 44 44, Contact:Meet 29 29, 
+
+Personnel:Start-Position 4 4, 
+
+
+Conflict:Attack 38 38, 
+Conflict:Attack 15 15, 
+
+
+
+
+
+Conflict:Attack 17 17, 
+
+
+
+Conflict:Attack 31 31, 
+Conflict:Attack 14 14, Conflict:Attack 14 14, 
+
+
+
+
+
+Movement:Transport 48 48, Personnel:Nominate 21 21, 
+
+
+
+Justice:Trial-Hearing 8 8, Justice:Arrest-Jail 21 21, Justice:Charge-Indict 26 26, 
+Justice:Arrest-Jail 5 5, Conflict:Attack 29 29, Conflict:Attack 16 16, 
+Justice:Charge-Indict 3 3, 
+Justice:Charge-Indict 6 6, 
+Justice:Trial-Hearing 5 5, 
+Conflict:Attack 8 8, Justice:Charge-Indict 4 4, 
+Conflict:Attack 24 24, 
+
+
+
+
+Contact:Meet 13 13, 
+
+
+
+
+
+
+
+Life:Die 16 16, Conflict:Attack 40 40, Conflict:Attack 18 18, Justice:Charge-Indict 35 35, 
+
+Justice:Charge-Indict 4 4, 
+Justice:Charge-Indict 4 4, 
+Conflict:Attack 23 23, Life:Die 18 18, 
+Life:Die 3 3, Conflict:Attack 21 21, Life:Injure 7 7, 
+Justice:Arrest-Jail 3 3, 
+Justice:Charge-Indict 15 15, Justice:Release-Parole 13 13, 
+
+Life:Die 23 23, 
+Contact:Phone-Write 43 43, 
+Life:Die 11 11, 
+
+Contact:Phone-Write 4 4, 
+Conflict:Attack 23 23, 
+Conflict:Attack 17 17, Life:Die 29 29, 
+
+
+
+
+Justice:Charge-Indict 33 33, 
+
+Justice:Trial-Hearing 16 16, 
+Justice:Charge-Indict 34 34, Justice:Arrest-Jail 18 18, 
+
+Personnel:End-Position 21 21, Personnel:Start-Position 6 6, 
+
+Personnel:End-Position 4 4, 
+Personnel:End-Position 10 10, 
+
+
+Personnel:Start-Position 3 4, Personnel:End-Position 17 17, Personnel:End-Position 24 25, 
+
+Personnel:Start-Position 1 1, Personnel:Elect 16 18, 
+
+Justice:Sentence 12 12, 
+Justice:Fine 12 12, 
+
+Justice:Sentence 2 2, 
+
+
+Justice:Charge-Indict 21 21, 
+
+
+
+
+Contact:Meet 8 8, 
+
+
+
+
+Contact:Meet 23 23, 
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Start-Position 9 9, 
+Personnel:End-Position 18 18, 
+Personnel:Start-Position 2 2, Contact:Meet 18 18, 
+
+
+
+
+Life:Marry 3 3, 
+
+
+
+
+
+
+Contact:Phone-Write 6 6, 
+Contact:Phone-Write 12 12, Contact:Phone-Write 21 21, 
+
+
+
+
+
+
+
+
+Transaction:Transfer-Ownership 23 23, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Phone-Write 2 2, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Die 12 12, 
+
+
+
+
+
+
+
+
+
+
+
+Life:Die 23 23, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Phone-Write 4 4, 
+Contact:Phone-Write 24 24, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Marry 10 10, 
+
+Life:Marry 20 20, Life:Marry 16 16, 
+
+
+
+
+Life:Marry 20 20, 
+
+Life:Die 11 11, 
+
+Life:Marry 4 4, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Divorce 2 2, 
+
+Life:Marry 5 5, Life:Divorce 7 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 13 13, Life:Divorce 8 8, 
+Life:Divorce 18 18, 
+
+Life:Divorce 21 21, 
+
+Life:Divorce 6 6, Life:Divorce 27 27, Life:Marry 20 20, 
+
+
+
+
+
+
+
+Life:Marry 5 5, 
+Life:Marry 1 1, 
+Life:Marry 4 4, 
+Life:Marry 4 4, 
+
+
+
+
+
+
+Life:Marry 12 12, 
+Movement:Transport 9 9, 
+
+
+
+
+Life:Divorce 8 8, 
+
+Life:Divorce 9 9, 
+
+Life:Marry 19 19, 
+
+
+
+Life:Marry 19 19, 
+
+
+
+
+
+
+Life:Divorce 0 0, 
+
+
+
+
+
+
+
+
+
+
+Life:Marry 8 8, 
+
+
+
+
+
+
+
+
+Life:Marry 4 4, 
+Life:Marry 18 18, 
+
+
+
+Justice:Sue 1 1, 
+
+
+
+Justice:Sue 3 3, 
+
+
+
+
+
+Justice:Sue 3 3, 
+
+
+Justice:Sue 23 24, 
+Justice:Sue 14 14, Justice:Sue 43 43, 
+Justice:Sue 27 28, Transaction:Transfer-Money 3 3, 
+
+
+Justice:Sue 6 6, 
+
+
+
+
+Justice:Sue 3 3, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Money 6 6, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Money 8 8, 
+
+
+
+
+Transaction:Transfer-Money 45 45, 
+Personnel:End-Position 25 25, 
+
+
+
+
+
+Life:Be-Born 23 23, 
+
+
+Life:Be-Born 21 21, 
+
+
+
+
+
+Life:Be-Born 5 5, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Justice:Extradite 11 11, 
+Movement:Transport 5 5, 
+
+
+
+Movement:Transport 20 20, 
+Justice:Charge-Indict 41 41, Movement:Transport 33 33, Justice:Release-Parole 19 19, 
+Justice:Sentence 5 5, 
+
+
+
+
+
+Justice:Extradite 4 4, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Meet 23 23, 
+Conflict:Attack 17 17, 
+
+
+Conflict:Attack 1 1, Conflict:Attack 29 29, Conflict:Attack 11 11, 
+Movement:Transport 21 21, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business:Declare-Bankruptcy 11 11, 
+Business:Declare-Bankruptcy 3 3, 
+Transaction:Transfer-Ownership 2 2, Transaction:Transfer-Money 35 35, 
+
+Business:Declare-Bankruptcy 7 7, 
+
+
+Business:Declare-Bankruptcy 10 10, 
+
+
+
+Business:Declare-Bankruptcy 21 21, 
+
+
+Business:Declare-Bankruptcy 6 6, Business:Declare-Bankruptcy 13 13, 
+
+Business:Declare-Bankruptcy 7 7, 
+Business:Declare-Bankruptcy 1 1, Transaction:Transfer-Ownership 21 21, 
+
+
+Business:Declare-Bankruptcy 7 7, 
+Business:Declare-Bankruptcy 17 17, 
+Transaction:Transfer-Ownership 7 7, 
+Business:Declare-Bankruptcy 12 12, 
+Business:Declare-Bankruptcy 1 1, 
+
+Business:Declare-Bankruptcy 72 72, Business:Declare-Bankruptcy 18 18, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Justice:Release-Parole 10 10, 
+
+
+Justice:Release-Parole 5 5, 
+Justice:Release-Parole 5 5, 
+Justice:Release-Parole 11 12, Justice:Release-Parole 30 30, Movement:Transport 6 6, 
+Justice:Arrest-Jail 44 45, Justice:Release-Parole 65 65, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 15 15, 
+Personnel:Elect 4 4, 
+Personnel:Elect 7 7, 
+
+
+Personnel:Elect 17 17, 
+
+
+Personnel:Elect 69 69, Personnel:Elect 46 46, Justice:Sue 60 60, Personnel:Elect 41 41, 
+
+
+Personnel:Elect 5 5, 
+Personnel:Elect 12 12, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 6 6, Personnel:Elect 9 9, 
+
+
+Personnel:Elect 5 5, 
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 25 26, 
+
+
+
+
+
+Personnel:Elect 7 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 8 8, 
+
+
+
+
+Conflict:Attack 23 24, 
+
+Movement:Transport 22 22, Movement:Transport 12 12, 
+Business:End-Org 4 4, 
+
+
+
+
+Conflict:Attack 22 22, 
+
+
+
+
+
+
+
+
+Conflict:Attack 14 14, Conflict:Attack 22 22, 
+
+
+
+
+
+Conflict:Attack 35 35, Conflict:Attack 37 37, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business:End-Org 13 13, 
+
+Business:Start-Org 5 5, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 4 4, 
+
+Business:Start-Org 13 13, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Phone-Write 3 3, 
+
+
+
+Transaction:Transfer-Money 1 2, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Money 16 16, 
+
+Movement:Transport 1 1, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Marry 2 2, 
+
+Life:Marry 16 16, 
+
+Movement:Transport 0 0, 
+
+Life:Marry 4 4, 
+Life:Marry 8 8, 
+Contact:Phone-Write 7 7, 
+Life:Marry 1 1, 
+Life:Marry 6 6, 
+
+
+
+
+
+Life:Marry 16 16, 
+Life:Marry 19 19, 
+
+
+Life:Marry 18 18, 
+Life:Marry 4 4, 
+Life:Marry 12 12, 
+
+
+
+Contact:Phone-Write 13 13, 
+
+
+
+Life:Marry 4 4, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 4 5, Movement:Transport 17 17, 
+
+Movement:Transport 1 1, 
+
+
+Movement:Transport 4 4, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 19 19, 
+Movement:Transport 22 23, 
+
+
+
+
+Movement:Transport 7 7, Movement:Transport 0 0, 
+
+Life:Die 23 23, 
+
+
+
+
+Movement:Transport 37 37, 
+
+
+Movement:Transport 47 47, Movement:Transport 87 87, 
+Movement:Transport 6 6, 
+Movement:Transport 5 5, 
+
+
+
+
+
+Movement:Transport 3 3, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 3 3, 
+Movement:Transport 13 13, Movement:Transport 27 27, 
+
+
+
+Movement:Transport 5 5, 
+
+
+Movement:Transport 5 5, 
+Movement:Transport 5 5, Movement:Transport 19 19, 
+Movement:Transport 5 5, 
+Movement:Transport 5 5, 
+Movement:Transport 5 5, 
+
+Movement:Transport 2 2, 
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 5 5, 
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 7 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 3 3, Personnel:Elect 6 6, 
+
+Personnel:Elect 6 6, Personnel:Elect 12 12, 
+Personnel:Elect 3 3, 
+
+
+
+Personnel:Elect 10 10, 
+
+Personnel:Elect 13 13, Personnel:Elect 26 26, 
+Personnel:Elect 8 8, 
+Personnel:Elect 16 16, 
+Personnel:Elect 9 9, 
+Personnel:Elect 2 2, 
+
+
+
+Personnel:Elect 5 5, Personnel:Elect 8 8, 
+Personnel:Elect 11 11, Personnel:Elect 21 21, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Die 17 17, 
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 8 8, Conflict:Attack 13 13, Conflict:Attack 25 25, 
+
+
+Conflict:Attack 13 13, 
+
+Movement:Transport 5 5, 
+
+
+Conflict:Attack 13 13, 
+Conflict:Attack 26 26, 
+Conflict:Attack 44 44, 
+Conflict:Attack 16 16, 
+Conflict:Attack 25 26, 
+Conflict:Attack 11 11, 
+
+
+
+Conflict:Attack 6 6, 
+
+
+
+
+
+Conflict:Attack 22 22, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 8 8, 
+Personnel:Elect 19 19, 
+
+Personnel:Elect 7 7, Personnel:Elect 10 10, 
+Personnel:Elect 15 15, 
+
+
+
+
+Personnel:Elect 7 7, 
+Personnel:Elect 25 25, 
+Conflict:Attack 6 6, 
+Personnel:Elect 23 23, Personnel:Elect 18 18, Personnel:Elect 40 40, 
+Personnel:Elect 19 19, 
+
+
+Conflict:Attack 18 18, Conflict:Attack 13 13, 
+Conflict:Attack 1 1, Life:Die 22 22, 
+Life:Die 4 4, 
+Personnel:Elect 10 10, Personnel:Elect 11 11, 
+
+
+Personnel:Elect 8 8, 
+
+
+Movement:Transport 4 4, 
+Conflict:Attack 4 4, Conflict:Attack 6 6, 
+
+Personnel:Elect 3 3, 
+Personnel:Elect 12 12, 
+
+
+
+
+Conflict:Attack 16 16, 
+
+
+
+Business:End-Org 6 7, 
+
+
+
+
+
+Life:Die 3 3, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 17 17, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 1 1, 
+
+
+Conflict:Attack 8 8, 
+
+Personnel:Elect 5 5, 
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 7 7, 
+
+
+
+
+
+
+
+
+
+Personnel:Elect 5 5, 
+
+Conflict:Attack 5 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Die 20 20, 
+
+Life:Die 7 7, 
+
+
+Life:Die 29 29, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 35 35, 
+
+
+
+
+Personnel:Start-Position 21 21, 
+
+
+
+
+
+Conflict:Attack 23 23, 
+Conflict:Attack 37 37, 
+
+
+Personnel:Elect 28 30, 
+Life:Die 16 16, Life:Injure 18 18, 
+
+
+Movement:Transport 46 46, Transaction:Transfer-Ownership 53 53, 
+
+
+
+
+Life:Die 26 26, Life:Die 18 18, 
+
+
+Life:Die 15 15, Justice:Charge-Indict 11 11, 
+
+Life:Die 17 17, 
+Life:Die 25 25, 
+Life:Die 24 24, 
+
+
+
+Life:Die 4 4, Justice:Convict 1 1, Justice:Sentence 7 7, 
+Justice:Convict 6 6, 
+Life:Die 0 0, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Justice:Arrest-Jail 22 22, Life:Be-Born 6 7, Conflict:Attack 27 27, 
+
+Justice:Arrest-Jail 12 12, Justice:Charge-Indict 16 16, Life:Die 21 21, 
+
+Contact:Phone-Write 17 17, Contact:Phone-Write 27 27, 
+Contact:Phone-Write 6 6, 
+
+Movement:Transport 7 7, 
+Contact:Phone-Write 4 4, Life:Be-Born 15 15, 
+Life:Be-Born 20 20, Conflict:Attack 11 11, Conflict:Attack 16 16, 
+Life:Be-Born 14 14, 
+Justice:Charge-Indict 4 4, Conflict:Attack 36 36, 
+
+Conflict:Attack 16 16, Life:Die 5 5, 
+
+Justice:Charge-Indict 13 13, 
+
+
+
+Personnel:Elect 14 14, 
+
+
+Personnel:End-Position 21 21, Personnel:End-Position 33 33, Personnel:Elect 57 57, 
+
+
+Transaction:Transfer-Money 10 10, 
+Personnel:Elect 5 5, 
+
+
+
+
+Life:Die 14 14, 
+
+Personnel:End-Position 1 1, 
+
+
+
+
+
+
+
+
+
+
+Justice:Convict 17 17, Justice:Appeal 11 11, Justice:Trial-Hearing 40 40, 
+Life:Die 15 15, 
+Transaction:Transfer-Money 18 18, 
+Life:Die 8 8, 
+Life:Die 12 12, Justice:Sentence 4 4, 
+Justice:Trial-Hearing 3 3, 
+Justice:Convict 8 8, Justice:Trial-Hearing 13 13, 
+
+
+Life:Be-Born 24 24, 
+Life:Be-Born 9 9, 
+
+Life:Die 3 3, 
+
+
+Personnel:End-Position 9 9, 
+Justice:Sentence 8 8, 
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 28 28, 
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Ownership 13 13, 
+
+
+
+
+
+Conflict:Demonstrate 10 10, 
+
+Conflict:Demonstrate 7 7, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Die 13 13, Life:Die 22 22, 
+
+
+
+
+
+Movement:Transport 7 7, 
+
+
+Transaction:Transfer-Money 10 10, 
+Transaction:Transfer-Money 5 5, Justice:Sue 24 24, Movement:Transport 49 49, 
+Transaction:Transfer-Money 13 13, 
+
+Movement:Transport 21 21, 
+
+
+
+
+
+
+
+
+Life:Be-Born 13 13, 
+
+
+
+
+
+Life:Die 2 2, 
+
+
+Life:Injure 19 19, Conflict:Attack 3 4, 
+
+
+
+Conflict:Attack 15 15, Movement:Transport 7 7, 
+
+
+
+
+Life:Injure 21 21, Movement:Transport 8 8, 
+Conflict:Attack 27 28, 
+Life:Injure 18 18, 
+
+
+
+
+Conflict:Attack 10 10, 
+Conflict:Attack 9 9, Conflict:Attack 19 19, Life:Die 11 11, 
+
+Life:Die 13 13, Life:Injure 17 17, Conflict:Attack 22 22, 
+Conflict:Attack 15 15, Life:Die 3 3, Life:Die 36 36, 
+Conflict:Attack 9 9, 
+Conflict:Attack 13 13, 
+
+Contact:Phone-Write 16 16, 
+
+
+
+
+Life:Die 21 21, 
+Conflict:Attack 18 18, 
+Life:Die 37 38, Life:Die 14 15, Life:Divorce 40 40, 
+Life:Die 12 12, Justice:Acquit 31 32, 
+
+
+
+Life:Die 13 13, 
+
+
+Transaction:Transfer-Money 23 23, 
+
+
+
+
+
+
+
+
+Transaction:Transfer-Money 13 13, 
+
+
+Transaction:Transfer-Money 4 4, 
+
+
+Transaction:Transfer-Money 19 19, Transaction:Transfer-Money 39 39, 
+Transaction:Transfer-Money 1 3, 
+
+Transaction:Transfer-Money 2 2, Transaction:Transfer-Money 9 9, 
+Transaction:Transfer-Money 7 7, 
+
+Personnel:Elect 19 19, 
+Transaction:Transfer-Money 6 6, 
+
+
+
+
+Personnel:Nominate 12 12, 
+
+
+Contact:Meet 22 22, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Money 16 16, 
+Transaction:Transfer-Money 1 1, 
+
+
+
+
+Transaction:Transfer-Money 12 12, 
+
+
+
+
+Business:Merge-Org 24 24, 
+
+Business:Merge-Org 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 30 30, Conflict:Attack 8 8, 
+
+
+
+
+Personnel:End-Position 3 3, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Money 13 13, 
+
+
+
+
+
+
+Life:Die 20 20, 
+
+
+
+
+
+Life:Die 32 32, Justice:Sentence 11 11, 
+Conflict:Attack 5 5, Life:Die 7 7, Justice:Trial-Hearing 3 3, 
+Life:Die 1 1, Life:Die 28 28, Justice:Convict 26 26, 
+Justice:Release-Parole 3 3, Conflict:Attack 9 9, 
+
+Conflict:Attack 12 12, 
+
+
+
+
+Contact:Meet 16 16, 
+
+
+
+
+
+Personnel:Elect 5 5, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 0 0, 
+
+
+
+Personnel:End-Position 9 9, 
+
+
+Personnel:End-Position 1 1, 
+
+
+
+
+
+Personnel:Nominate 1 1, 
+
+
+
+
+Business:Start-Org 37 37, 
+
+
+
+
+
+
+
+
+Movement:Transport 5 5, 
+Movement:Transport 10 10, 
+
+
+
+Transaction:Transfer-Ownership 3 3, 
+Transaction:Transfer-Ownership 11 11, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life:Die 14 14, 
+
+Conflict:Attack 9 9, 
+Conflict:Attack 8 8, 
+Life:Die 2 2, Transaction:Transfer-Money 9 9, 
+Transaction:Transfer-Money 10 10, 
+Transaction:Transfer-Money 3 3, 
+Transaction:Transfer-Money 8 8, 
+
+
+
+Transaction:Transfer-Money 11 11, 
+Life:Die 29 29, Transaction:Transfer-Money 6 6, Transaction:Transfer-Money 43 43, 
+
+Transaction:Transfer-Money 45 46, Life:Die 5 5, 
+
+
+Transaction:Transfer-Money 10 10, 
+Transaction:Transfer-Money 43 43, Transaction:Transfer-Money 4 4, 
+
+Movement:Transport 24 24, Justice:Arrest-Jail 11 11, 
+
+Movement:Transport 11 11, 
+
+Personnel:Start-Position 9 9, 
+
+
+
+
+Personnel:End-Position 4 4, Justice:Release-Parole 22 22, 
+
+
+Life:Be-Born 15 15, 
+Justice:Sentence 8 8, Life:Die 25 25, Conflict:Attack 28 28, 
+Conflict:Demonstrate 19 19, 
+Conflict:Demonstrate 2 2, Justice:Arrest-Jail 6 6, Movement:Transport 10 10, Movement:Transport 25 25, 
+Personnel:Elect 5 5, 
+
+Personnel:End-Position 40 40, 
+Conflict:Attack 5 5, 
+Life:Die 27 27, Conflict:Attack 32 32, 
+Conflict:Attack 10 10, 
+Justice:Release-Parole 0 0, 
+
+
+Conflict:Attack 21 21, 
+
+Life:Injure 4 4, 
+
+Movement:Transport 1 1, 
+Movement:Transport 2 2, Movement:Transport 22 22, 
+Movement:Transport 10 10, 
+Movement:Transport 3 3, 
+
+Conflict:Attack 22 22, 
+Movement:Transport 13 13, 
+
+
+Life:Die 3 3, Life:Die 12 12, Life:Die 27 27, 
+
+
+
+
+
+
+Conflict:Attack 17 19, Life:Die 22 22, 
+
+
+
+Conflict:Attack 7 7, 
+Life:Injure 4 4, 
+Conflict:Attack 6 6, Conflict:Attack 14 14, 
+Conflict:Attack 25 25, 
+Conflict:Attack 6 6, Conflict:Attack 21 21, 
+
+
+
+Transaction:Transfer-Ownership 9 10, 
+
+Conflict:Attack 8 8, 
+Transaction:Transfer-Ownership 13 13, 
+
+
+
+
+Life:Injure 48 48, 
+Conflict:Attack 13 13, Movement:Transport 52 52, 
+Conflict:Attack 4 4, 
+
+Conflict:Attack 16 16, 
+
+
+
+
+Conflict:Attack 39 39, 
+Conflict:Attack 14 14, Movement:Transport 21 21, 
+
+Transaction:Transfer-Money 24 24, 
+
+
+
+
+
+Life:Die 3 3, 
+
+
+
+
+Life:Die 4 4, Personnel:Elect 34 34, 
+Conflict:Attack 10 10, 
+Life:Die 1 1, 
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 2 2, 
+
+
+
+
+Justice:Arrest-Jail 17 17, 
+Personnel:Elect 1 1, 
+
+
+
+Transaction:Transfer-Ownership 13 13, 
+
+
+Personnel:Elect 26 26, 
+Personnel:Elect 16 16, 
+
+
+
+Personnel:Elect 17 17, 
+
+
+
+
+
+
+Conflict:Attack 1 1, Conflict:Attack 4 4, Life:Die 0 0, 
+Conflict:Attack 13 13, Life:Die 15 15, 
+Conflict:Attack 2 2, Life:Die 1 1, 
+Conflict:Attack 7 7, 
+Conflict:Attack 14 14, 
+Life:Die 9 9, Conflict:Attack 18 18, 
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 2 2, 
+
+Personnel:End-Position 2 2, 
+Personnel:Start-Position 3 3, Personnel:End-Position 21 21, 
+
+
+
+
+
+
+
+Life:Die 37 37, 
+Personnel:Start-Position 1 1, Life:Die 29 29, 
+
+
+
+Movement:Transport 3 4, 
+
+Life:Die 29 29, 
+
+
+Conflict:Attack 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 12 12, 
+
+Movement:Transport 11 11, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 13 13, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Money 22 22, 
+
+
+Justice:Charge-Indict 13 13, 
+Justice:Trial-Hearing 15 15, 
+Justice:Charge-Indict 10 10, Transaction:Transfer-Money 12 12, 
+
+Transaction:Transfer-Money 31 31, Justice:Fine 19 19, Justice:Sentence 10 10, 
+Justice:Fine 21 21, Justice:Fine 30 30, 
+
+
+Transaction:Transfer-Money 1 1, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Justice:Charge-Indict 8 8, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 21 21, 
+
+
+
+
+
+
+
+
+
+Conflict:Attack 4 4, Conflict:Attack 10 10, Conflict:Attack 20 20, 
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Meet 20 20, 
+
+
+
+Transaction:Transfer-Money 16 16, 
+Transaction:Transfer-Money 6 6, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movement:Transport 8 8, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict:Attack 10 10, 
+
+Movement:Transport 12 12, 
+
+Conflict:Attack 0 0, 
+Conflict:Attack 0 0, 
+
+Movement:Transport 25 25, 
+
+
+Conflict:Attack 20 20, 
+
+
+
+
+
+
+Life:Injure 13 13, 
+Life:Injure 15 15, 
+Conflict:Attack 13 13, 
+
+Conflict:Attack 28 28, 
+
+
+
+
+
+Movement:Transport 28 28, 
+
+
+
+
+
+
+
+
+
+Movement:Transport 19 19, 
+
+Contact:Phone-Write 3 3, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 22 22, 
+Personnel:End-Position 7 7, 
+Personnel:End-Position 47 47, Transaction:Transfer-Money 31 31, 
+
+Transaction:Transfer-Money 16 16, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Start-Position 23 23, Personnel:End-Position 26 26, 
+Personnel:End-Position 20 20, 
+
+
+
+
+
+
+Transaction:Transfer-Money 9 9, 
+
+Transaction:Transfer-Money 34 34, 
+
+Transaction:Transfer-Money 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 22 22, Conflict:Attack 26 26, 
+
+Personnel:Start-Position 16 16, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Justice:Release-Parole 73 74, 
+Business:Merge-Org 21 21, 
+Justice:Arrest-Jail 13 13, 
+
+
+Justice:Convict 4 4, 
+Justice:Arrest-Jail 28 29, 
+
+
+
+Contact:Meet 3 4, Life:Marry 21 21, 
+
+
+
+
+
+Business:End-Org 3 8, 
+
+
+
+Business:End-Org 20 20, Transaction:Transfer-Ownership 30 30, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Ownership 8 9, 
+
+
+
+
+
+
+Business:Merge-Org 21 23, 
+
+
+Personnel:End-Position 12 12, 
+
+
+Business:Merge-Org 8 8, 
+Business:Merge-Org 32 32, Personnel:End-Position 13 13, Business:Start-Org 18 18, Transaction:Transfer-Money 27 27, Transaction:Transfer-Ownership 64 64, 
+Business:Merge-Org 7 7, 
+
+
+
+
+
+
+
+
+Business:End-Org 20 20, 
+
+
+
+
+
+Transaction:Transfer-Ownership 8 8, Business:Declare-Bankruptcy 21 21, 
+
+
+
+
+Transaction:Transfer-Ownership 6 6, 
+Transaction:Transfer-Ownership 19 19, 
+
+
+Transaction:Transfer-Ownership 33 33, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Ownership 43 43, 
+
+
+
+
+
+
+
+
+
+
+
+
+Justice:Sue 26 26, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business:End-Org 25 25, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business:End-Org 26 26, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Ownership 7 7, 
+
+Justice:Sue 13 13, 
+
+Transaction:Transfer-Ownership 9 9, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Ownership 23 23, 
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Ownership 9 9, 
+
+
+
+
+
+
+
+
+Personnel:End-Position 10 10, 
+
+
+
+
+
+
+
+
+
+Justice:Charge-Indict 9 9, 
+
+
+Transaction:Transfer-Money 29 29, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction:Transfer-Ownership 3 3, 
+Personnel:Start-Position 17 17, Personnel:Start-Position 49 49, Transaction:Transfer-Money 83 83, 
+
+
+
+Transaction:Transfer-Money 40 40, 
+Transaction:Transfer-Money 8 8, 
+
+
+
+
+Transaction:Transfer-Ownership 14 14, Personnel:Nominate 19 19, Transaction:Transfer-Money 40 40, 
+
+Transaction:Transfer-Ownership 35 35, Transaction:Transfer-Ownership 17 17, 
+Transaction:Transfer-Ownership 7 7, Transaction:Transfer-Ownership 19 19, 
+
+
+
+
+
+Contact:Meet 13 13, 
+Contact:Meet 1 1, 
+
+
+
+
+
+Contact:Meet 10 10, 
+
+Contact:Meet 6 6, 
+
+Contact:Meet 1 1, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 32 32, 
+
+
+Personnel:End-Position 17 17, 
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 3 3, 
+
+Personnel:End-Position 16 16, 
+Personnel:End-Position 21 21, 
+
+Justice:Sue 18 18, 
+Justice:Sue 10 10, 
+
+Justice:Sue 13 13, 
+
+
+
+
+
+
+Personnel:Start-Position 12 12, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business:End-Org 22 22, 
+
+
+
+Business:Declare-Bankruptcy 26 26, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:End-Position 19 19, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Justice:Fine 15 15, 
+
+
+Personnel:Start-Position 19 19, 
+
+
+
+
+
+
+Life:Die 7 7, Life:Injure 16 17, 
+
+
+
+
+Personnel:End-Position 12 12, 
+
+Justice:Trial-Hearing 8 8, Transaction:Transfer-Money 11 11, 
+Transaction:Transfer-Money 38 38, Transaction:Transfer-Money 8 8, 
+
+Life:Injure 6 6, 
+Justice:Trial-Hearing 15 15, 
+
+
+
+
+
+Justice:Trial-Hearing 3 3, 
+
+Life:Die 20 20, 
+
+
+
+
+
+
+Life:Die 15 15, 
+
+
+Business:Start-Org 4 4, 
+
+Business:End-Org 17 18, Life:Injure 33 33, Movement:Transport 38 38, 
+
+Movement:Transport 5 5, 
+
+
+
+
+
+
+Justice:Fine 10 10, Justice:Fine 29 29, 
+
+
+Justice:Fine 20 20, 
+Justice:Fine 18 19, 
+
+
+
+
+
+Justice:Sue 3 3, Justice:Sue 13 14, Justice:Sue 28 29, Justice:Fine 17 17, 
+
+Justice:Sue 19 20, 
+Justice:Sue 4 4, 
+
+
+
+
+
+Contact:Meet 14 14, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact:Phone-Write 12 12, 
+
+
+
+
+Transaction:Transfer-Money 6 6, Transaction:Transfer-Money 28 28, 
+
+Transaction:Transfer-Money 3 3, Transaction:Transfer-Money 8 8, 
+Personnel:Start-Position 6 6, Transaction:Transfer-Money 12 12, 
+
+Personnel:Start-Position 3 3, 
+Personnel:Start-Position 3 3, 
+Transaction:Transfer-Money 10 10, 
+
+Personnel:Start-Position 8 8, Transaction:Transfer-Money 17 17, Transaction:Transfer-Money 26 26, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel:Elect 13 13, 
+
+
+
+
+
+
+
+
+Conflict:Demonstrate 9 9, 
+Conflict:Demonstrate 13 13, 
+
+Movement:Transport 2 2, 
+Conflict:Demonstrate 4 4, 
+
+Conflict:Attack 31 31, Conflict:Demonstrate 23 23, 
+Conflict:Attack 6 6, 
+Conflict:Attack 17 17, 
+
+Conflict:Demonstrate 1 1, Conflict:Demonstrate 6 6, 
+Conflict:Attack 19 19, 
+Conflict:Attack 44 44, 
+
+
+Justice:Arrest-Jail 4 4, Conflict:Attack 8 8, Conflict:Demonstrate 18 18, Movement:Transport 27 27, 
+Justice:Arrest-Jail 20 20, Conflict:Demonstrate 32 32, Conflict:Demonstrate 5 5, 
+Conflict:Attack 13 13, 
+Conflict:Demonstrate 8 8, 
+
+Conflict:Demonstrate 8 8, 
+Conflict:Attack 9 9, 
+
+
+
+Conflict:Demonstrate 2 2, Conflict:Attack 24 24, 
+
+Conflict:Attack 18 18, 
+Conflict:Demonstrate 4 4, 
+
+Conflict:Demonstrate 13 13, Conflict:Attack 7 7, 
+Movement:Transport 6 6, 
+
+
+Conflict:Attack 14 14, Conflict:Attack 35 35, 
+Conflict:Demonstrate 29 29, Justice:Arrest-Jail 19 19, 
+Conflict:Demonstrate 5 5, Conflict:Demonstrate 18 18, 
+Conflict:Attack 3 3, 
+Conflict:Attack 9 9, 
+Conflict:Attack 3 3, 
+Conflict:Attack 9 9, Conflict:Demonstrate 1 1, Conflict:Demonstrate 22 23, 
+Conflict:Attack 14 14, 
+
+Conflict:Attack 25 25, Conflict:Attack 20 20, 
+
+Conflict:Attack 7 7, 
+
+Life:Die 28 28, 
+Conflict:Attack 11 11, 
+Conflict:Attack 14 14, 
+Conflict:Attack 0 0, Conflict:Demonstrate 1 1, Conflict:Attack 13 13, 
+Conflict:Attack 21 21, Conflict:Demonstrate 5 5, 
+Conflict:Attack 6 6, Conflict:Demonstrate 23 24, 
+Conflict:Demonstrate 2 2, 
+Conflict:Attack 29 29, 
+Justice:Arrest-Jail 5 5, Conflict:Demonstrate 9 9, 
