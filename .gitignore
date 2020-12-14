@@ -1,5 +1,6 @@
 web/model/
 web/log/
+.DS_Store
 
 *_output
 # Byte-compiled / optimized / DLL files
